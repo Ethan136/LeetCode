@@ -29,6 +29,10 @@
 
 #### 把第二個List 的 node，疊加到第一個List，回傳第一個List作爲結果
 
+##### 要點
+1. 第一個list用完的時候 -> 把第二個list剩餘的node接到第一個list
+2. 接着如果第一個list還是用完了 -> 代表掃描完了
+
 ##### 方法1：state machine
 1. 初始 state 掃兩個 list
 2. 遇到特殊情況就切換 state
