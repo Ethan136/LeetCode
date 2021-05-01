@@ -26,22 +26,25 @@ public:
 		// scan through the string
 		for( int i = 0; i < s.length(); i++ ) {
 
-			// if the current char has not appeared yet
-			if( nIndexList[ s[i] ] < nSubStringLeftIndex ) {
+			// if the char has been appeared
+			if( nIndexList[ s[i] ] >= nSubStringLeftIndex ) {
 
-				if( i == s.length() - 1 ) {
-					nMaxSubStrLength = FIND_MAX( i - nSubStringLeftIndex + 1, nMaxSubStrLength );
-				}
-				nIndexList[ s[i] ] = i;
+				// (1) calc current substring length and record
+				nMaxSubStrLength = FIND_MAX( i - nSubStringLeftIndex, nMaxSubStrLength );
+
+				// (2) set new sub string
+				nSubStringLeftIndex = nIndexList[ s[ i ] ] + 1;
+				nIndexList[ s[ i ] ] = i;
 				continue;
 			}
 
-			// if the char has been appeared
-			// (1) calc current substring length and record
-			nMaxSubStrLength = FIND_MAX( i - nSubStringLeftIndex, nMaxSubStrLength );
+			// if the current index is the last one
+			if( i == s.length() - 1 ) {
+				nMaxSubStrLength = FIND_MAX( s.length() - nSubStringLeftIndex, nMaxSubStrLength );
+				break;
+			}
 
-			// (2) set new sub string
-			nSubStringLeftIndex = nIndexList[ s[i] ] + 1;
+			// if the char did not appear yet
 			nIndexList[ s[i] ] = i;
 		}
 
