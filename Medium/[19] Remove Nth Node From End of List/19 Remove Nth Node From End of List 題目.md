@@ -1,0 +1,43 @@
+# [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/ "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/")
+
+#LinkList 
+#注意記憶體 
+#SlidingWindow
+
+Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head.
+
+**Follow up:** Could you do this in one pass?
+
+**Example 1:**
+
+![](https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg)
+
+```
+Input: head = [1,2,3,4,5], n = 2
+Output: [1,2,3,5]
+```
+
+**Example 2:**
+
+```
+Input: head = [1], n = 1
+Output: []
+```
+
+**Example 3:**
+
+```
+Input: head = [1,2], n = 1
+Output: [1]
+```
+
+**Constraints:**
+
+-   The number of nodes in the list is `sz`.
+-   `1 <= sz <= 30`
+-   `0 <= Node.val <= 100`
+-   `1 <= n <= sz`
+
+---
+
+[Discussion](https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/?currentPage=1&orderBy=most_votes&query= "https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/?currentPage=1&orderBy=most_votes&query=") | [Solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/ "https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/")
