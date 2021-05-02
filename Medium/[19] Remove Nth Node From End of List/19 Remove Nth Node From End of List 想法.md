@@ -1,3 +1,7 @@
+### 關聯性
+#### 類似的內容
+1. [[3 Longest Substring Without Repeating 想法]]
+
 ### 注意
 1. Node 數目有限，上限30
 
