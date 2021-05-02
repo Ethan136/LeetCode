@@ -1,8 +1,6 @@
 # [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/")
 
-#掃描 
 #mapping
-#條件判斷
 #邊界條件
 #SlidingWindow
 

@@ -1,3 +1,6 @@
+### 類似的題目
+[[19 想法 Remove Nth Node From End of List]]
+
 ### 題目需求
 1. substring 再這邊的定義：不能有重複字元
 2. 字元：char 的所有內容（空格、特殊符號）
