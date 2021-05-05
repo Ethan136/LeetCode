@@ -17,8 +17,8 @@ enum ENodeType {
 
 struct TNodeTrasverse {
 	int nDepthFromTopBeforeTrasverse;
-	vector<TreeNode*> DivertNode;
-	TNodeTrasverse( int nDepth = 0 ) : nDepthFromTopBeforeTrasverse( nDepth ) {};
+	TreeNode* pStackTopOfDivertNode;
+	TNodeTrasverse( int nDepth = 0 ) : nDepthFromTopBeforeTrasverse( nDepth ), pStackTopOfDivertNode( nullptr ) {};
 };
 
 #define PUSH_DATA_TO_VECTOR( nVectLen, Vector, Value ) \
@@ -93,6 +93,9 @@ class Solution {
 		int nLengthFromPrevDivertNode = 0;
 		int nLengthFromTop = 0;
 
+		// for data swap
+		TreeNode* pLeftOfDivertNode = nullptr;
+
 		// the resultant data
 		int nMaxDiameter = 0;
 		while( nExploreState != STATE_Finish ) {
@@ -109,13 +112,17 @@ class Solution {
 
 				case ENodeType_Root:
 
+					// backup left node of Divert node
+					pLeftOfDivertNode = root->left;
+
 					// modify the value definition as length from previous node and record divert node with same value
 					root->val = nLengthFromTop;
-					TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.push_back( root );
+					root->left = TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode;
+					TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode = root;
 
 					// go along left side and record path length
 					// re-start to count the length from this node
-					root = root->left;
+					root = pLeftOfDivertNode;
 					nLengthFromPrevDivertNode = 1;
 					nLengthFromTop++;
 					break;
@@ -146,7 +153,7 @@ class Solution {
 
 				// if there's no previous divert node
 				// pop out the stack of "current layer" and go back to previous layer
-				if( TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.size() == 0 ) {
+				if( TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode == nullptr ) {
 					nExploreState =  STATE_BackToPrevLayer;
 					break;
 				}
@@ -162,13 +169,13 @@ class Solution {
 
 				// shift to the next layer to begin a new left-trasverse
 				// the new "top root" locates on the "next right node" of the divert node
-				root = TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->right;
-				nLengthFromTop = TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->val + 1;
+				root = TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode->right;
+				nLengthFromTop = TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode->val + 1;
 				nLengthFromPrevDivertNode = 1;
 
 				// add a new stack for new layer of left-trasverse
 				// set current divert node as the head of the new layer
-				PUSH_DATA_TO_VECTOR( nTrasverseRecordNum, TrasverseRecord, TNodeTrasverse( TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->val ) );
+				PUSH_DATA_TO_VECTOR( nTrasverseRecordNum, TrasverseRecord, TNodeTrasverse( TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode->val ) );
 
 				// start to left trasverse
 				nExploreState = STATE_TrasverseToEnd;
@@ -204,12 +211,12 @@ class Solution {
 			case STATE_GoToPrevDivertNode: {
 
 				// once back to the previous layer, "go upward" along the previous divert node
-				TreeNode *pLastDivertNodeToDiscard = TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back();
-				TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.pop_back();
+				TreeNode *pLastDivertNodeToDiscard = TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode;
+				TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode = TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode->left;
 
 				// once back to the previous layer, try to "go upward" along the previous divert node
-				if( TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.size() ) {
-					nLengthFromPrevDivertNode += pLastDivertNodeToDiscard->val - TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->val;
+				if( TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode != nullptr ) {
+					nLengthFromPrevDivertNode += pLastDivertNodeToDiscard->val - TrasverseRecord[ nTrasverseRecordNum - 1 ].pStackTopOfDivertNode->val;
 					nExploreState = STATE_AtEndOfTrasverse;
 					break;
 				}
