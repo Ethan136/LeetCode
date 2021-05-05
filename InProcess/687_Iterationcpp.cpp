@@ -21,6 +21,15 @@ struct TNodeTrasverse {
 	TNodeTrasverse( int nDepth = 0 ) : nDepthFromTopBeforeTrasverse( nDepth ) {};
 };
 
+#define PUSH_DATA_TO_VECTOR( nVectLen, Vector, Value ) \
+	if( nVectLen < Vector.size() ) {                   \
+		Vector[ nVectLen++ ] = Value;                  \
+	}                                                  \
+	else {                                             \
+		Vector.push_back( Value );                     \
+		nVectLen++;                                    \
+	}
+
 #define FIND_MAX( val1, val2 ) ( ( val1 > val2 ) ? ( val1 ) : ( val2 ) )
 
 class Solution {
@@ -41,11 +50,7 @@ class Solution {
 
 			// left with same value but right has different one
 			if( root->right->val != root->val ) {
-
-				if( nDivertNodeNum >= DiffValNodeCollect.size() ) DiffValNodeCollect.push_back( root->right );
-				else DiffValNodeCollect[ nDivertNodeNum ] = root->right;
-				nDivertNodeNum++;
-
+				PUSH_DATA_TO_VECTOR( nDivertNodeNum, DiffValNodeCollect, root->right );
 				return ENodeType_LinkLeft;
 			}
 
@@ -55,9 +60,7 @@ class Solution {
 
 		// left exist but has different value
 		if( root->left != nullptr ) {
-			if( nDivertNodeNum >= DiffValNodeCollect.size() ) DiffValNodeCollect.push_back( root->left );
-			else DiffValNodeCollect[ nDivertNodeNum ] = root->left;
-			nDivertNodeNum++;
+			PUSH_DATA_TO_VECTOR( nDivertNodeNum, DiffValNodeCollect, root->left );
 		}
 
 		// right null
@@ -67,10 +70,7 @@ class Solution {
 
 		// right with diff value
 		if( root->right->val != root->val ) {
-			if( nDivertNodeNum >= DiffValNodeCollect.size() ) DiffValNodeCollect.push_back( root->right );
-			else DiffValNodeCollect[ nDivertNodeNum ] = root->right;
-			nDivertNodeNum++;
-	
+			PUSH_DATA_TO_VECTOR( nDivertNodeNum, DiffValNodeCollect, root->right );
 			return ENodeType_Leaf;
 		}
 
@@ -82,8 +82,7 @@ class Solution {
 	{
 		// 2D stack, to store the divert node with same val as root
 		// here use the val of node to store the length from the toppest node (origin root)
-		if( TrasverseRecord.size() < 1 ) TrasverseRecord.push_back( TNodeTrasverse( 0 ) );
-		nTrasverseRecordNum = 1;
+		PUSH_DATA_TO_VECTOR( nTrasverseRecordNum, TrasverseRecord, TNodeTrasverse( 0 ) );
 
 		// 1D stack, Before shift to next layer and restart a new left-trasverse
 		// record the length below "the node which diverts to next layer"
@@ -169,13 +168,7 @@ class Solution {
 
 				// add a new stack for new layer of left-trasverse
 				// set current divert node as the head of the new layer
-				if( nTrasverseRecordNum >= TrasverseRecord.size() ) {
-					TrasverseRecord.push_back( TNodeTrasverse( TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->val ) );
-				}
-				else {
-					TrasverseRecord[ nTrasverseRecordNum ] = TNodeTrasverse( TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->val );
-				}
-				nTrasverseRecordNum++;
+				PUSH_DATA_TO_VECTOR( nTrasverseRecordNum, TrasverseRecord, TNodeTrasverse( TrasverseRecord[ nTrasverseRecordNum - 1 ].DivertNode.back()->val ) );
 
 				// start to left trasverse
 				nExploreState = STATE_TrasverseToEnd;
@@ -242,10 +235,10 @@ public:
 		int nTrasverseRecordNum = 0;
 
 		vector< TreeNode * > DivertNodeRecord;
-		DivertNodeRecord.push_back( root );
-		int nDivertNodeNum = 1;
+		int nDivertNodeNum = 0;
+		PUSH_DATA_TO_VECTOR( nDivertNodeNum, DivertNodeRecord, root );
 
-        int nMaxPathSizeOfRoot = 0;
+		int nMaxPathSizeOfRoot = 0;
 		int nMaxPathSize = 0;
 		while( nDivertNodeNum > 0 ) {
 			root = DivertNodeRecord[ --nDivertNodeNum ];
