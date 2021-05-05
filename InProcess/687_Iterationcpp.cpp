@@ -78,7 +78,7 @@ class Solution {
 		return ENodeType_LinkRight;
 	}
 
-	int FindMaxPathSize( TreeNode *root, vector<TNodeTrasverse> &TrasverseRecord, int &nTrasverseRecordNum, vector< TreeNode * > &DiffValNodeCollect, int &nDivertNodeNum )
+	int FindMaxPathSize( TreeNode *root, int &nTrasverseRecordNum, vector<TNodeTrasverse> &TrasverseRecord, int &nDivertNodeNum, vector< TreeNode * > &DiffValNodeCollect )
 	{
 		// 2D stack, to store the divert node with same val as root
 		// here use the val of node to store the length from the toppest node (origin root)
@@ -86,7 +86,7 @@ class Solution {
 
 		// 1D stack, Before shift to next layer and restart a new left-trasverse
 		// record the length below "the node which diverts to next layer"
-		vector< int > LengthBelowDivertNodeInPrevLayer;
+		TreeNode* pLengthBelowDivertNodeInPrevLayer = nullptr;
 
 		// some operation info
 		int nExploreState = STATE_TrasverseToEnd;
@@ -165,7 +165,10 @@ class Solution {
 			}
 			case STATE_ShiftToNextLayer: {
 				// record the path length below the divert node
-				LengthBelowDivertNodeInPrevLayer.push_back( nLengthFromPrevDivertNode );
+				// use the current root (which is the end node of a branch) as the capacity of stack
+				root->left = pLengthBelowDivertNodeInPrevLayer;
+				pLengthBelowDivertNodeInPrevLayer = root;
+				pLengthBelowDivertNodeInPrevLayer->val = nLengthFromPrevDivertNode;
 
 				// shift to the next layer to begin a new left-trasverse
 				// the new "top root" locates on the "next right node" of the divert node
@@ -194,14 +197,14 @@ class Solution {
 
 				// update the max diameter in the perspecitve of "the divert node on the top of stack"
 				// check whether "left below length" + "right below length (i.e. the current length from prev divert node)" > recorded nMaxDiameter
-				nMaxDiameter = FIND_MAX( nMaxDiameter, LengthBelowDivertNodeInPrevLayer.back() + nLengthFromPrevDivertNode );
+				nMaxDiameter = FIND_MAX( nMaxDiameter, pLengthBelowDivertNodeInPrevLayer->val + nLengthFromPrevDivertNode );
 
 				// update the "max length" below the divert node in the previous layer
 				// length from prev divert node "in prev layer" = max( recorded length from prev divert node in "prev layer", length from prev divert node in "current layer" )
-				nLengthFromPrevDivertNode = FIND_MAX( LengthBelowDivertNodeInPrevLayer.back(), nLengthFromPrevDivertNode  );
+				nLengthFromPrevDivertNode = FIND_MAX( pLengthBelowDivertNodeInPrevLayer->val, nLengthFromPrevDivertNode );
 
 				// clear the length info of the previous node which saved "Before" advencing to the current layer
-				LengthBelowDivertNodeInPrevLayer.pop_back();
+				pLengthBelowDivertNodeInPrevLayer = pLengthBelowDivertNodeInPrevLayer->left;
 
 				// after being back to the previous node, go to the previous divert node
 				nExploreState = STATE_GoToPrevDivertNode;
@@ -249,7 +252,7 @@ public:
 		int nMaxPathSize = 0;
 		while( nDivertNodeNum > 0 ) {
 			root = DivertNodeRecord[ --nDivertNodeNum ];
-			nMaxPathSizeOfRoot = FindMaxPathSize( root, TrasverseRecord, nTrasverseRecordNum, DivertNodeRecord, nDivertNodeNum );
+			nMaxPathSizeOfRoot = FindMaxPathSize( root, nTrasverseRecordNum, TrasverseRecord, nDivertNodeNum, DivertNodeRecord );
 			nMaxPathSize = FIND_MAX( nMaxPathSize, nMaxPathSizeOfRoot );
 		}
 		return nMaxPathSize;
