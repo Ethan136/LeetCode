@@ -1,8 +1,8 @@
+
 # [Two Sum](https://leetcode.com/problems/two-sum/description/ "https://leetcode.com/problems/two-sum/description/")
 
 #注意記憶體
-#多重迴圈
-#掃描
+#SlidingWindow 
 
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 
