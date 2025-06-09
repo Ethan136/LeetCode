@@ -1,0 +1,19 @@
+---
+LeetCodeFinish: 0
+LeetCodeNum: 9
+NeetCodeSeq: 10
+---
+
+### Backtracking
+
+| #   | Problem                                                                                                           | Difficulty | Solution                                                                    | Status | Note |
+| --- | ----------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------- | ------ | ---- |
+| 71  | [78. Subsets](https://leetcode.com/problems/subsets/)                                                             | Medium     | [Link](https://neetcode.io/solutions/subsets)                               |        |      |
+| 72  | [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                                             | Medium     | [Link](https://neetcode.io/solutions/combination-sum)                       |        |      |
+| 73  | [46. Permutations](https://leetcode.com/problems/permutations/)                                                   | Medium     | [Link](https://neetcode.io/solutions/permutations)                          |        |      |
+| 74  | [90. Subsets II](https://leetcode.com/problems/subsets-ii/)                                                       | Medium     | [Link](https://neetcode.io/solutions/subsets-ii)                            |        |      |
+| 75  | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                       | Medium     | [Link](https://neetcode.io/solutions/combination-sum-ii)                    |        |      |
+| 76  | [79. Word Search](https://leetcode.com/problems/word-search/)                                                     | Medium     | [Link](https://neetcode.io/solutions/word-search)                           |        |      |
+| 77  | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                            | Medium     | [Link](https://neetcode.io/solutions/palindrome-partitioning)               |        |      |
+| 78  | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | [Link](https://neetcode.io/solutions/letter-combinations-of-a-phone-number) |        |      |
+| 79  | [51. N Queens](https://leetcode.com/problems/n-queens/)                                                           | Hard       | [Link](https://neetcode.io/solutions/n-queens)                              |        |      |
