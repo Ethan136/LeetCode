@@ -1,5 +1,5 @@
 ---
-LeetCodeFinish: 4
+LeetCodeFinish: 5
 LeetCodeNum: 7
 NeetCodeSeq: 4
 ---
@@ -12,6 +12,6 @@ NeetCodeSeq: 4
 | 22  | [155. Min Stack](https://leetcode.com/problems/min-stack/)                                               | Medium     | [Link](https://neetcode.io/solutions/min-stack)                        | 6/15 Finish | [[155. Min Stack - Main]]                        |
 | 23  | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium     | [Link](https://neetcode.io/solutions/evaluate-reverse-polish-notation) | 6/15 Finish | [[150. Evaluate Reverse Polish Notation - Main]] |
 | 24  | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                          | Medium     | [Link](https://neetcode.io/solutions/generate-parentheses)             | 6/15 Finish | [[22. Generate Parentheses - Main]]              |
-| 25  | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             | Medium     | [Link](https://neetcode.io/solutions/daily-temperatures)               |             |                                                  |
+| 25  | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             | Medium     | [Link](https://neetcode.io/solutions/daily-temperatures)               | 6/15 Finish | [[739. Daily Temperatures - Main]]               |
 | 26  | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                               | Medium     | [Link](https://neetcode.io/solutions/car-fleet)                        |             |                                                  |
 | 27  | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      | Hard       | [Link](https://neetcode.io/solutions/largest-rectangle-in-histogram)   |             |                                                  |
