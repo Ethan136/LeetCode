@@ -1,5 +1,5 @@
 ---
-LeetCodeFinish: 5
+LeetCodeFinish: 7
 LeetCodeNum: 7
 NeetCodeSeq: 4
 ---
@@ -14,4 +14,4 @@ NeetCodeSeq: 4
 | 24  | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                          | Medium     | [Link](https://neetcode.io/solutions/generate-parentheses)             | 6/15 Finish | [[22. Generate Parentheses - Main]]              |
 | 25  | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             | Medium     | [Link](https://neetcode.io/solutions/daily-temperatures)               | 6/15 Finish | [[739. Daily Temperatures - Main]]               |
 | 26  | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                               | Medium     | [Link](https://neetcode.io/solutions/car-fleet)                        | 6/15 Finish | [[853. Car Fleet - Main]]                        |
-| 27  | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      | Hard       | [Link](https://neetcode.io/solutions/largest-rectangle-in-histogram)   |             |                                                  |
+| 27  | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      | Hard       | [Link](https://neetcode.io/solutions/largest-rectangle-in-histogram)   | 6/15 Finish | [[84. Largest Rectangle in Histogram - Main]]    |
