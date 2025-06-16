@@ -2,6 +2,8 @@
 LeetCodeFinish: 7
 LeetCodeNum: 7
 NeetCodeSeq: 2
+ParentTask:
+  - "[[# NeetCode RoadMap]]"
 ---
 
 ### Two Pointers

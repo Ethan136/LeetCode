@@ -2,6 +2,8 @@
 LeetCodeFinish: 6
 LeetCodeNum: 7
 NeetCodeSeq: 5
+ParentTask:
+  - "[[# NeetCode RoadMap]]"
 ---
 
 ### Binary Search

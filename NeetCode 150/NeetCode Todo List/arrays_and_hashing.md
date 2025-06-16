@@ -2,6 +2,8 @@
 LeetCodeFinish: 8
 LeetCodeNum: 9
 NeetCodeSeq: 1
+ParentTask:
+  - "[[# NeetCode RoadMap]]"
 ---
 
 ### Arrays & Hashing
