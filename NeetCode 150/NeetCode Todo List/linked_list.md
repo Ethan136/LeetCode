@@ -2,6 +2,8 @@
 LeetCodeFinish: 0
 LeetCodeNum: 11
 NeetCodeSeq: 6
+ParentTask:
+  - "[[NeetCode 150 MainPage]]"
 ---
 
 ### Linked List

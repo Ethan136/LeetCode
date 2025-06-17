@@ -3,7 +3,7 @@ LeetCodeFinish: 7
 LeetCodeNum: 7
 NeetCodeSeq: 2
 ParentTask:
-  - "[[# NeetCode RoadMap]]"
+  - "[[NeetCode 150 MainPage]]"
 ---
 
 ### Two Pointers

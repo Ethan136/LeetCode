@@ -3,7 +3,7 @@ LeetCodeFinish: 8
 LeetCodeNum: 9
 NeetCodeSeq: 1
 ParentTask:
-  - "[[# NeetCode RoadMap]]"
+  - "[[NeetCode 150 MainPage]]"
 ---
 
 ### Arrays & Hashing

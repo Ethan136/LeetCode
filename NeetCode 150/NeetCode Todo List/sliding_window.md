@@ -2,6 +2,8 @@
 LeetCodeFinish: 6
 LeetCodeNum: 6
 NeetCodeSeq: 3
+ParentTask:
+  - "[[NeetCode 150 MainPage]]"
 ---
 
 ### Sliding Window
