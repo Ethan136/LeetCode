@@ -1,5 +1,5 @@
 ---
-LeetCodeFinish: 4
+LeetCodeFinish: 10
 LeetCodeNum: 11
 NeetCodeSeq: 6
 ParentTask:
