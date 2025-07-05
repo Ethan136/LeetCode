@@ -1,5 +1,5 @@
 ---
-LeetCodeFinish: 10
+LeetCodeFinish: 11
 LeetCodeNum: 11
 NeetCodeSeq: 6
 ParentTask:
@@ -18,6 +18,6 @@ ParentTask:
 | 40  | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                    | Medium     | [Link](https://neetcode.io/solutions/add-two-numbers)                  | Finish 7/05 | [[2. Add Two Numbers - Main]]                   |
 | 41  | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              | Easy       | [Link](https://neetcode.io/solutions/linked-list-cycle)                | Finish 7/05 | [[141. Linked List Cycle - Main]]               |
 | 42  | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)              | Medium     | [Link](https://neetcode.io/solutions/find-the-duplicate-number)        | Finish 7/05 | [[287. Find the Duplicate Number - Main]]       |
-| 43  | [146. LRU Cache](https://leetcode.com/problems/lru-cache/)                                              | Medium     | [Link](https://neetcode.io/solutions/lru-cache)                        |             | [[146. LRU Cache - Main]]                       |
+| 43  | [146. LRU Cache](https://leetcode.com/problems/lru-cache/)                                              | Medium     | [Link](https://neetcode.io/solutions/lru-cache)                        | Finish 7/05 | [[146. LRU Cache - Main]]                       |
 | 44  | [23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         | Hard       | [Link](https://neetcode.io/solutions/merge-k-sorted-lists)             | Finish 7/05 | [[23. Merge K Sorted Lists - Main]]             |
 | 45  | [25. Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                 | Hard       | [Link](https://neetcode.io/solutions/reverse-nodes-in-k-group)         | Finish 7/05 | [[25. Reverse Nodes in K-Group - Main]]         |
