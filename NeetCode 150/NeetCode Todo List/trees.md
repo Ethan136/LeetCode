@@ -1,5 +1,5 @@
 ---
-LeetCodeFinish: 0
+LeetCodeFinish: 3
 LeetCodeNum: 15
 NeetCodeSeq: 7
 ParentTask:
@@ -12,7 +12,7 @@ ParentTask:
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------- |
 | 46  | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                     | Easy       | [Link](https://neetcode.io/solutions/invert-binary-tree)                          | Finish 7/06 | [[226. Invert Binary Tree - Main]]                            |
 | 47  | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                 | Easy       | [Link](https://neetcode.io/solutions/maximum-depth-of-binary-tree)                | Finish 7/06 | [[104. Maximum Depth of Binary Tree - Main]]                  |
-| 48  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                           | Easy       | [Link](https://neetcode.io/solutions/diameter-of-binary-tree)                     |             | [[543. Diameter of Binary Tree - Main]]                       |
+| 48  | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                           | Easy       | [Link](https://neetcode.io/solutions/diameter-of-binary-tree)                     | Finish 7/07 | [[543. Diameter of Binary Tree - Main]]                       |
 | 49  | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                 | Easy       | [Link](https://neetcode.io/solutions/balanced-binary-tree)                        |             | [[110. Balanced Binary Tree - Main]]                          |
 | 50  | [100. Same Tree](https://leetcode.com/problems/same-tree/)                                                                       | Easy       | [Link](https://neetcode.io/solutions/same-tree)                                   |             | [[100. Same Tree - Main]]                                     |
 | 51  | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                           | Medium     | [Link](https://neetcode.io/solutions/subtree-of-another-tree)                     |             | [[572. Subtree of Another Tree - Main]]                       |
