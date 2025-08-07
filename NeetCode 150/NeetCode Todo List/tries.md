@@ -4,6 +4,8 @@ LeetCodeNum: 3
 NeetCodeSeq: 8
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
+LeetCodeConceptOk: 3
+LeetCodeTestPass: 3
 ---
 
 ### Tries

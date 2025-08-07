@@ -4,6 +4,8 @@ LeetCodeNum: 6
 NeetCodeSeq: 3
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
+LeetCodeConceptOk: 6
+LeetCodeTestPass: 6
 ---
 
 ### Sliding Window

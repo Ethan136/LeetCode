@@ -4,6 +4,8 @@ LeetCodeNum: 7
 NeetCodeSeq: 9
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
+LeetCodeConceptOk: 7
+LeetCodeTestPass: 7
 ---
 
 ### Heap / Priority Queue

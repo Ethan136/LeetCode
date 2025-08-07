@@ -1,9 +1,11 @@
 ---
-LeetCodeFinish: 3
+LeetCodeFinish: 4
 LeetCodeNum: 15
 NeetCodeSeq: 7
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
+LeetCodeConceptOk: 15
+LeetCodeTestPass: 15
 ---
 
 ### Trees

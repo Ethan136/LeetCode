@@ -4,6 +4,8 @@ LeetCodeNum: 7
 NeetCodeSeq: 18
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
+LeetCodeConceptOk: 7
+LeetCodeTestPass: 7
 ---
 
 ### Bit Manipulation

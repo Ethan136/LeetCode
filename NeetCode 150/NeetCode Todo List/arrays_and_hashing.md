@@ -1,4 +1,6 @@
 ---
+LeetCodeConceptOk: 8
+LeetCodeTestPass: 8
 LeetCodeFinish: 8
 LeetCodeNum: 9
 NeetCodeSeq: 1

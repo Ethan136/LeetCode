@@ -2,6 +2,8 @@
 LeetCodeFinish: 0
 LeetCodeNum: 9
 NeetCodeSeq: 10
+LeetCodeConceptOk: 9
+LeetCodeTestPass: 9
 ---
 
 ### Backtracking

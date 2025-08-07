@@ -25,22 +25,29 @@ const pages = dv.pages('"'+this.current().file.folder+'"')
 
 // Calculate total statistics
 let totalProblems = 0;
+let totalConceptOk = 0;
+let totalTestPass = 0;
 let totalCompleted = 0;
 for (let page of pages) {
     totalProblems += page.LeetCodeNum || 0;
+    totalConceptOk += page.LeetCodeConceptOk || 0;
+	totalTestPass += page.LeetCodeTestPass || 0;
     totalCompleted += page.LeetCodeFinish || 0;
 }
-const overallProgress = Math.round((totalCompleted / totalProblems) * 100);
+const overallConceptOk = Math.round((totalConceptOk / totalProblems) * 100);
+const overallTestPass = Math.round((totalTestPass / totalProblems) * 100);
+const overallComplete = Math.round((totalCompleted / totalProblems) * 100);
 
 // Create a table with the information
 const table = dv.markdownTable(
-    ["Category", "Problems ("+totalProblems.toString()+")", "Completed ("+totalCompleted.toString()+")", "Progress ("+overallProgress.toString()+"%)", "NeetCodeSeq"],
+    ["Category", "Problems ("+totalProblems.toString()+")", "Concept " +totalConceptOk.toString() + " ("+overallConceptOk.toString()+"%)", "TestPass " + totalTestPass.toString() + " ("+overallTestPass.toString()+"%)", "Completed "+totalCompleted.toString()+" ("+overallComplete.toString()+"%)", "NeetCodeSeq"],
     [
         ...pages.map(p => [
             p.file.link,
             p.LeetCodeNum || 0,
-            p.LeetCodeFinish || 0,
-            p.LeetCodeNum ? Math.round((p.LeetCodeFinish || 0) / p.LeetCodeNum * 100) + '%' : '0%',
+            (p.LeetCodeConceptOk || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeConceptOk || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
+            (p.LeetCodeTestPass || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeTestPass || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
+			(p.LeetCodeFinish || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeFinish || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
             p.NeetCodeSeq || ''
         ])
     ]

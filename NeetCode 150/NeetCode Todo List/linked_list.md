@@ -4,6 +4,8 @@ LeetCodeNum: 11
 NeetCodeSeq: 6
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
+LeetCodeConceptOk: 11
+LeetCodeTestPass: 11
 ---
 
 ### Linked List
