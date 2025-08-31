@@ -4,8 +4,8 @@ LeetCodeNum: 8
 NeetCodeSeq: 17
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
-LeetCodeConceptOk: 2
-LeetCodeTestPass: 2
+LeetCodeConceptOk: 8
+LeetCodeTestPass: 8
 ---
 
 ### Math & Geometry
@@ -18,5 +18,5 @@ LeetCodeTestPass: 2
 | 139 | [202. Happy Number](https://leetcode.com/problems/happy-number/)          | Easy       | [Link](https://neetcode.io/solutions/happy-number)      | 8/05    | 8/05     |        | [[202. Happy Number - Main]]     |
 | 140 | [66. Plus One](https://leetcode.com/problems/plus-one/)                   | Easy       | [Link](https://neetcode.io/solutions/plus-one)          | 8/05    | 8/05     |        | [[66. Plus One - Main]]          |
 | 141 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                    | Medium     | [Link](https://neetcode.io/solutions/powx-n)            | 8/06    | 8/06     |        | [[50. Pow(x, n) - Main]]         |
-| 142 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)   | Medium     | [Link](https://neetcode.io/solutions/multiply-strings)  |         |          |        | [[43. Multiply Strings - Main]]  |
-| 143 | [2013. Detect Squares](https://leetcode.com/problems/detect-squares/)     | Medium     | [Link](https://neetcode.io/solutions/detect-squares)    |         |          |        | [[2013. Detect Squares - Main]]  |
+| 142 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)   | Medium     | [Link](https://neetcode.io/solutions/multiply-strings)  | 8/07    | 8/07     |        | [[43. Multiply Strings - Main]]  |
+| 143 | [2013. Detect Squares](https://leetcode.com/problems/detect-squares/)     | Medium     | [Link](https://neetcode.io/solutions/detect-squares)    | 8/07    | 8/08     |        | [[2013. Detect Squares - Main]]  |
