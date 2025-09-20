@@ -6,7 +6,7 @@ ParentTask:
   - "[[NeetCode 150 MainPage]]"
 LeetCodeConceptOk: 7
 LeetCodeTestPass: 7
-LeetCodeReview: 6
+LeetCodeReview: 7
 ---
 
 ### Binary Search
