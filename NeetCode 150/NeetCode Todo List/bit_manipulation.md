@@ -1,22 +1,22 @@
 ---
-LeetCodeFinish: 3
+LeetCodeFinish: 5
 LeetCodeNum: 7
 NeetCodeSeq: 18
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
 LeetCodeConceptOk: 7
 LeetCodeTestPass: 7
-LeetCodeReview: 3
+LeetCodeReview: 5
 ---
 
 ### Bit Manipulation
 
-| #   | Problem                                                                        | Difficulty | Solution                                                  | Finish      | Review | Note                                |
-| --- | ------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------- | ----------- | ------ | ----------------------------------- |
-| 144 | [136. Single Number](https://leetcode.com/problems/single-number/)             | Easy       | [Link](https://neetcode.io/solutions/single-number)       | Finish 7/22 | 9/18   | [[136. Single Number - Main]]       |
-| 145 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | Easy       | [Link](https://neetcode.io/solutions/number-of-1-bits)    | Finish 7/23 | 9/18   | [[191. Number of 1 Bits - Main]]    |
-| 146 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)             | Easy       | [Link](https://neetcode.io/solutions/counting-bits)       | Finish 7/24 | 9/18   | [[338. Counting Bits - Main]]       |
-| 147 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | Easy       | [Link](https://neetcode.io/solutions/reverse-bits)        |             |        | [[190. Reverse Bits - Main]]        |
-| 148 | [268. Missing Number](https://leetcode.com/problems/missing-number/)           | Easy       | [Link](https://neetcode.io/solutions/missing-number)      |             |        | [[268. Missing Number - Main]]      |
-| 149 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium     | [Link](https://neetcode.io/solutions/sum-of-two-integers) |             |        | [[371. Sum of Two Integers - Main]] |
-| 150 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)           | Medium     | [Link](https://neetcode.io/solutions/reverse-integer)     |             |        | [[7. Reverse Integer - Main]]       |
+| #   | Problem                                                                        | Difficulty | Solution                                                  | Pass | Finish | Review | Note                                |
+| --- | ------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------- | ---- | ------ | ------ | ----------------------------------- |
+| 144 | [136. Single Number](https://leetcode.com/problems/single-number/)             | Easy       | [Link](https://neetcode.io/solutions/single-number)       | 7/22 | 9/18   | 9/18   | [[136. Single Number - Main]]       |
+| 145 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | Easy       | [Link](https://neetcode.io/solutions/number-of-1-bits)    | 7/23 | 9/18   | 9/18   | [[191. Number of 1 Bits - Main]]    |
+| 146 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)             | Easy       | [Link](https://neetcode.io/solutions/counting-bits)       | 7/24 | 9/18   | 9/18   | [[338. Counting Bits - Main]]       |
+| 147 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | Easy       | [Link](https://neetcode.io/solutions/reverse-bits)        | 7/29 | 9/21   | 9/21   | [[190. Reverse Bits - Main]]        |
+| 148 | [268. Missing Number](https://leetcode.com/problems/missing-number/)           | Easy       | [Link](https://neetcode.io/solutions/missing-number)      | 7/29 | 9/21   | 9/21   | [[268. Missing Number - Main]]      |
+| 149 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium     | [Link](https://neetcode.io/solutions/sum-of-two-integers) |      |        |        | [[371. Sum of Two Integers - Main]] |
+| 150 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)           | Medium     | [Link](https://neetcode.io/solutions/reverse-integer)     |      |        |        | [[7. Reverse Integer - Main]]       |
