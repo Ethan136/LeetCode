@@ -1,12 +1,12 @@
 ---
-LeetCodeFinish: 5
+LeetCodeFinish: 7
 LeetCodeNum: 7
 NeetCodeSeq: 18
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
 LeetCodeConceptOk: 7
 LeetCodeTestPass: 7
-LeetCodeReview: 5
+LeetCodeReview: 7
 ---
 
 ### Bit Manipulation
@@ -18,5 +18,5 @@ LeetCodeReview: 5
 | 146 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/)             | Easy       | [Link](https://neetcode.io/solutions/counting-bits)       | 7/24 | 9/18   | 9/18   | [[338. Counting Bits - Main]]       |
 | 147 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | Easy       | [Link](https://neetcode.io/solutions/reverse-bits)        | 7/29 | 9/21   | 9/21   | [[190. Reverse Bits - Main]]        |
 | 148 | [268. Missing Number](https://leetcode.com/problems/missing-number/)           | Easy       | [Link](https://neetcode.io/solutions/missing-number)      | 7/29 | 9/21   | 9/21   | [[268. Missing Number - Main]]      |
-| 149 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium     | [Link](https://neetcode.io/solutions/sum-of-two-integers) |      |        |        | [[371. Sum of Two Integers - Main]] |
-| 150 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)           | Medium     | [Link](https://neetcode.io/solutions/reverse-integer)     |      |        |        | [[7. Reverse Integer - Main]]       |
+| 149 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium     | [Link](https://neetcode.io/solutions/sum-of-two-integers) | 7/24 | 9/21   | 9/21   | [[371. Sum of Two Integers - Main]] |
+| 150 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)           | Medium     | [Link](https://neetcode.io/solutions/reverse-integer)     | 7/28 | 9/21   | 9/21   | [[7. Reverse Integer - Main]]       |
