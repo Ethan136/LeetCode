@@ -6,7 +6,7 @@ LeetCodeNum: 8
 NeetCodeSeq: 15
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
-LeetCodeReview: 7
+LeetCodeReview: 8
 ---
 
 ### Greedy
