@@ -1,12 +1,12 @@
 ---
-LeetCodeFinish: 8
+LeetCodeFinish: 12
 LeetCodeNum: 12
 NeetCodeSeq: 13
 ParentTask:
   - "[[NeetCode 150 MainPage]]"
 LeetCodeConceptOk: 12
 LeetCodeTestPass: 12
-LeetCodeReview: 8
+LeetCodeReview: 12
 ---
 
 ### 1-D Dynamic Programming
@@ -21,7 +21,7 @@ LeetCodeReview: 8
 | 104 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                 | Medium     | [Link](https://neetcode.io/solutions/palindromic-substrings)         | 7/09     | 10/13  | 10/13  | [[647. Palindromic Substrings - Main]]                                      |
 | 105 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/)                                        | Medium     | [Link](https://neetcode.io/solutions/decode-ways)                    | 7/10     | 10/13  | 10/13  | [[91. Decode Ways - Main]]                                                  |
 | 106 | [322. Coin Change](https://leetcode.com/problems/coin-change/)                                       | Medium     | [Link](https://neetcode.io/solutions/coin-change)                    | 7/10     | 10/13  | 10/13  | [[322. Coin Change - Main]]                                                 |
-| 107 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             | Medium     | [Link](https://neetcode.io/solutions/maximum-product-subarray)       | 7/11     |        |        | [[152. Maximum Product Subarray - Main]]                                    |
-| 108 | [139. Word Break](https://leetcode.com/problems/word-break/)                                         | Medium     | [Link](https://neetcode.io/solutions/word-break)                     | 7/14     |        |        | [[139. Word Break - Main]]                                                  |
-| 109 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium     | [Link](https://neetcode.io/solutions/longest-increasing-subsequence) | 7/14     |        |        | [[300. Longest Increasing Subsequence - Main]]                              |
-| 110 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)         | Medium     | [Link](https://neetcode.io/solutions/partition-equal-subset-sum)     | 7/14     |        |        | [[416. Partition Equal Subset Sum - Main]]                                  |
+| 107 | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             | Medium     | [Link](https://neetcode.io/solutions/maximum-product-subarray)       | 7/11     | 10/13  | 10/13  | [[152. Maximum Product Subarray - Main]]                                    |
+| 108 | [139. Word Break](https://leetcode.com/problems/word-break/)                                         | Medium     | [Link](https://neetcode.io/solutions/word-break)                     | 7/14     | 10/14  | 10/14  | [[139. Word Break - Main]] - *複習的時候一度想不到解法，之後要再練*                           |
+| 109 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium     | [Link](https://neetcode.io/solutions/longest-increasing-subsequence) | 7/14     | 10/14  | 10/14  | [[300. Longest Increasing Subsequence - Main]] - *複習的時候一度想不到解法，之後要再練*       |
+| 110 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)         | Medium     | [Link](https://neetcode.io/solutions/partition-equal-subset-sum)     | 7/14     | 10/14  | 10/14  | [[416. Partition Equal Subset Sum - Main]] - **很難，一直寫錯**                    |
