@@ -1,7 +1,7 @@
 ---
 LeetCodeTestPass: 8
 LeetCodeConceptOk: 8
-LeetCodeFinish: 7
+LeetCodeFinish: 8
 LeetCodeNum: 8
 NeetCodeSeq: 15
 ParentTask:
