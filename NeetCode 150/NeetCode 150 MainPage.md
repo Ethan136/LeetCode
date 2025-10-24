@@ -30,17 +30,20 @@ let totalConceptOk = 0;
 let totalTestPass = 0;
 let totalCompleted = 0;
 let totalReviewed = 0;
+let totalReviewed2 = 0;
 for (let page of pages) {
     totalProblems += page.LeetCodeNum || 0;
     totalConceptOk += page.LeetCodeConceptOk || 0;
 	totalTestPass += page.LeetCodeTestPass || 0;
     totalCompleted += page.LeetCodeFinish || 0;
     totalReviewed += page.LeetCodeReview || 0;
+    totalReviewed2 += page.LeetCodeRev2 || 0;
 }
 const overallConceptOk = Math.round((totalConceptOk / totalProblems) * 100);
 const overallTestPass = Math.round((totalTestPass / totalProblems) * 100);
 const overallComplete = Math.round((totalCompleted / totalProblems) * 100);
 const overallReview = Math.round((totalReviewed / totalProblems) * 100);
+const overallReview2 = Math.round((totalReviewed2 / totalProblems) * 100);
 
 // Create a table with the information
 const table = dv.markdownTable(
@@ -50,6 +53,7 @@ const table = dv.markdownTable(
     "TestPass " +totalTestPass.toString() + " ("+overallTestPass.toString()+"%)", 
     "Completed "+totalCompleted.toString()+ " ("+overallComplete.toString()+"%)", 
     "Reviewed " +totalReviewed.toString() + " ("+overallReview.toString()+"%)", 
+    "Reviewed2 " +totalReviewed2.toString() + " ("+overallReview2.toString()+"%)", 
     "NeetCodeSeq"],
     [
         ...pages.map(p => [
@@ -59,6 +63,7 @@ const table = dv.markdownTable(
             (p.LeetCodeTestPass || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeTestPass || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
 			(p.LeetCodeFinish || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeFinish || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
 			(p.LeetCodeReview || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeReview || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
+			(p.LeetCodeRev2 || 0) + " (" + (p.LeetCodeNum ? Math.round((p.LeetCodeRev2 || 0) / p.LeetCodeNum * 100) + '%' : '0%') + ")",
             p.NeetCodeSeq || ''
         ])
     ]
