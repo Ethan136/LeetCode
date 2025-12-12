@@ -1,7 +1,0 @@
-# LeetCode
-
-
-# Answer
-```Cpp
-
-```
