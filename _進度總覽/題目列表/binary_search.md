@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 5
-LeetCode150Finish: 7
-LeetCode150Num: 7
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 7
 LeetCode150ConceptOk: 7
 LeetCode150TestPass: 7
+LeetCode150Finish: 7
 LeetCode150Review: 7
 LeetCode150Rev2: 7
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 7
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 #### 先決條件
@@ -95,6 +103,9 @@ LeetCode150Rev2: 7
 
 ### Binary Search
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                          | Difficulty | Solution                                                                   | Status      | Review | Review2nd | Note                                                                                                                  |
 | --- | ---------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------- | ----------- | ------ | --------- | --------------------------------------------------------------------------------------------------------------------- |
 | 28  | [704. Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       | [Link](https://neetcode.io/solutions/binary-search)                        | 6/15 Finish | 9/17   | 12/10     | [[704. Binary Search - Main]]<br>*基本模板寫法 (2nd)*                                                                       |
@@ -104,3 +115,15 @@ LeetCode150Rev2: 7
 | 32  | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | [Link](https://neetcode.io/solutions/find-minimum-in-rotated-sorted-array) | 6/16 Finish | 9/18   | 12/11     | [[153. Find Minimum in Rotated Sorted Array - Main]]<br>*模板化寫法 (2nd)*                                                 |
 | 33  | [981. Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     | Medium     | [Link](https://neetcode.io/solutions/time-based-key-value-store)           | 6/16 Finish | 9/18   | 12/11     | [[981. Time-Based Key-Value Store - Main]]<br>*物件實作練習 + 特殊終止條件 (2nd)*                                                 |
 | 34  | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                     | Hard       | [Link](https://neetcode.io/solutions/median-of-two-sorted-arrays)          | 6/16 Finish | 9/19   |           | [[4. Median of Two Sorted Arrays - Main]]<br>**太複雜，複習2nd先跳過**                                                         |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Link](https://neetcode.io/solutions/search-insert-position) | | | | | |
+| 374 | [374. Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Link](https://neetcode.io/solutions/guess-number-higher-or-lower) | | | | | |
+| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Link](https://neetcode.io/solutions/sqrtx) | | | | | |
+| 1011 | [1011. Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Link](https://neetcode.io/solutions/capacity-to-ship-packages-within-d-days) | | | | | |
+| 81 | [81. Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [Link](https://neetcode.io/solutions/search-in-rotated-sorted-array-ii) | | | | | |
+| 410 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Link](https://neetcode.io/solutions/split-array-largest-sum) | | | | | |
+| 1095 | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [Link](https://neetcode.io/solutions/find-in-mountain-array) | | | | | |

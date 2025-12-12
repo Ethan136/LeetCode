@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 4
-LeetCode150Finish: 7
-LeetCode150Num: 7
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 7
 LeetCode150ConceptOk: 7
 LeetCode150TestPass: 7
+LeetCode150Finish: 7
 LeetCode150Review: 7
 LeetCode150Rev2: 7
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 8
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### 模板 - 線性檢查某個 array，無法馬上判斷的時候加到 stack 等後續再判斷
 
@@ -32,6 +40,9 @@ LeetCode150Rev2: 7
 
 ### Stack
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                  | Difficulty | Solution                                                               | Status      | Review | Review 2 | Note                                                                    |
 | --- | -------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------- | ----------- | ------ | -------- | ----------------------------------------------------------------------- |
 | 21  | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                | Easy       | [Link](https://neetcode.io/solutions/valid-parentheses)                | 6/15 Finish | 9/16   | 11/05    | [[20. Valid Parentheses - Main]] - *練習用模板來寫 (2nd)*                      |
@@ -41,3 +52,16 @@ LeetCode150Rev2: 7
 | 25  | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             | Medium     | [Link](https://neetcode.io/solutions/daily-temperatures)               | 6/15 Finish | 9/16   | 11/05    | [[739. Daily Temperatures - Main]] - **要想好哪個是 pending 需要放到 stack（2nd）** |
 | 26  | [853. Car Fleet](https://leetcode.com/problems/car-fleet/)                                               | Medium     | [Link](https://neetcode.io/solutions/car-fleet)                        | 6/15 Finish | 9/16   | 11/05    | [[853. Car Fleet - Main]] - *練習用模板來寫 (2nd)*                             |
 | 27  | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)      | Hard       | [Link](https://neetcode.io/solutions/largest-rectangle-in-histogram)   | 6/15 Finish | 9/16   | 11/06    | [[84. Largest Rectangle in Histogram - Main]] - *練習用模板來寫 (2nd)*         |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 682 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [Link](https://neetcode.io/solutions/baseball-game) | | | | | |
+| 225 | [225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Link](https://neetcode.io/solutions/implement-stack-using-queues) | | | | | |
+| 232 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Link](https://neetcode.io/solutions/implement-queue-using-stacks) | | | | | |
+| 735 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [Link](https://neetcode.io/solutions/asteroid-collision) | | | | | |
+| 901 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Link](https://neetcode.io/solutions/online-stock-span) | | | | | |
+| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Link](https://neetcode.io/solutions/simplify-path) | | | | | |
+| 394 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Link](https://neetcode.io/solutions/decode-string) | | | | | |
+| 895 | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard | [Link](https://neetcode.io/solutions/maximum-frequency-stack) | | | | | |

@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 10
-LeetCode150Finish: 9
+ParentTask:
+  - "[[LeetCode/_進度總覽/NeetCode 150 MainPage|NeetCode 150 MainPage]]"
 LeetCode150Num: 9
 LeetCode150ConceptOk: 9
 LeetCode150TestPass: 9
+LeetCode150Finish: 9
 LeetCode150Review: 9
 LeetCode150Rev2: 9
-ParentTask:
-  - "[[LeetCode/_進度總覽/NeetCode 150 MainPage|NeetCode 150 MainPage]]"
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 7
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 
 ### Concept
@@ -150,6 +158,9 @@ ParentTask:
 
 ### Backtracking
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                           | Difficulty | Solution                                                                    | Solve | Note | Review | Review 2nd | Note                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------- | ----- | ---- | ------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | 71  | [78. Subsets](https://leetcode.com/problems/subsets/)                                                             | Medium     | [Link](https://neetcode.io/solutions/subsets)                               | 7/07  | 9/19 | 9/19   | 11/29      | [[78. Subsets - Main]] - *需要複習(1st)* / **邊界條件注意 (2nd)**                                                                             |
@@ -161,3 +172,15 @@ ParentTask:
 | 77  | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                            | Medium     | [Link](https://neetcode.io/solutions/palindrome-partitioning)               | 7/08  | 9/21 | 9/21   | 12/01      | [[131. Palindrome Partitioning - Main]] - **沒特別難，但題目不容易懂，string 語法要注意(1st)** / *模板化寫法（2nd)*                                         |
 | 78  | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | [Link](https://neetcode.io/solutions/letter-combinations-of-a-phone-number) | 7/08  | 9/21 | 9/21   | 12/01      | [[17. Letter Combinations of a Phone Number - Main]] - **三種寫法 DFS Iteration / BFS Iteration / DFS Recursive (1st)** / *模板化寫法 (2nd)* |
 | 79  | [51. N Queens](https://leetcode.com/problems/n-queens/)                                                           | Hard       | [Link](https://neetcode.io/solutions/n-queens)                              | 7/08  | 9/21 | 9/21   | 12/02      | [[51. N Queens - Main]] - **board 對角線轉換為 index 要熟悉(1st)** / *暴力填色 or 對角線用 map 記錄 (2nd)*                                             |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 1863 | [1863. Sum of All Subsets XOR Total](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Link](https://neetcode.io/solutions/sum-of-all-subset-xor-totals) | | | | | |
+| 77 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [Link](https://neetcode.io/solutions/combinations) | | | | | |
+| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Link](https://neetcode.io/solutions/permutations-ii) | | | | | |
+| 473 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Medium | [Link](https://neetcode.io/solutions/matchsticks-to-square) | | | | | |
+| 698 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | Medium | [Link](https://neetcode.io/solutions/partition-to-k-equal-sum-subsets) | | | | | |
+| 52 | [52. N Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Link](https://neetcode.io/solutions/n-queens-ii) | | | | | |
+| 140 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Link](https://neetcode.io/solutions/word-break-ii) | | | | | |

@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 14
-LeetCode150Finish: 11
-LeetCode150Num: 11
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 11
 LeetCode150ConceptOk: 11
 LeetCode150TestPass: 11
+LeetCode150Finish: 11
 LeetCode150Review: 11
 LeetCode150Rev2: 11
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 5
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 - **先寫思路，再解題目**
@@ -102,6 +110,9 @@ LeetCode150Rev2: 11
 
 ### 2-D Dynamic Programming
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                                            | Difficulty | Solution                                                                            | Concept | TestPass | Finish | Review | Review2 | Note                                                                                                           |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ------- | -------------------------------------------------------------------------------------------------------------- |
 | 111 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                    | Medium     | [Link](https://neetcode.io/solutions/unique-paths)                                  | 8/09    | 8/09     | 10/14  | 10/14  | 11/08   | [[62. Unique Paths - Main]]                                                                                    |
@@ -115,3 +126,13 @@ LeetCode150Rev2: 11
 | 119 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/)                                                                  | Medium     | [Link](https://neetcode.io/solutions/edit-distance)                                 | 8/13    | 8/13     | 10/18  | 10/18  | 11/09   | [[72. Edit Distance - Main]] - **第一次寫很快，複習時候寫很久** / **複習2nd還是完全想不到**                                           |
 | 120 | [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)                                                               | Hard       | [Link](https://neetcode.io/solutions/burst-balloons)                                | 8/30    | 8/30     | 10/19  | 10/19  | 11/11   | [[312. Burst Balloons - Main]] - **Divide & Conquer + 特別範圍更新的 DP**                                             |
 | 121 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                      | Hard       | [Link](https://neetcode.io/solutions/regular-expression-matching)                   | 8/16    | 8/16     | 10/19  | 10/19  | 11/09   | [[10. Regular Expression Matching - Main]] - 太難，之後看看概念即可                                                       |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 63 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Link](https://neetcode.io/solutions/unique-paths-ii) | | | | | |
+| 64 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Link](https://neetcode.io/solutions/minimum-path-sum) | | | | | |
+| 1049 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | Medium | [Link](https://neetcode.io/solutions/last-stone-weight-ii) | | | | | |
+| 877 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [Link](https://neetcode.io/solutions/stone-game) | | | | | |
+| 1140 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium | [Link](https://neetcode.io/solutions/stone-game-ii) | | | | | |

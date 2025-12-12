@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 15
-LeetCode150TestPass: 8
-LeetCode150ConceptOk: 8
-LeetCode150Finish: 8
-LeetCode150Num: 8
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 8
+LeetCode150ConceptOk: 8
+LeetCode150TestPass: 8
+LeetCode150Finish: 8
 LeetCode150Review: 8
 LeetCode150Rev2: 8
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 6
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 #### Concept
 - **Greedy 的型態，通常可能類似 Backtracking 或是 DP，但只要求「能不能做到」或「最大 / 最小值」或『唯一valid solution』**
@@ -39,6 +47,9 @@ LeetCode150Rev2: 8
 
 ### Greedy
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                             | Difficulty | Solution                                                                    | Concept | PassTest | Finish | Review | Review2 | Note                                                                                              |
 | --- | ------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ------- | ------------------------------------------------------------------------------------------------- |
 | 122 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                             | Medium     | [Link](https://neetcode.io/solutions/maximum-subarray)                      | 7/15    | 7/20     | 9/21   | 9/21   | 11/06   | [[53. Maximum Subarray - Main]]                                                                   |
@@ -49,3 +60,14 @@ LeetCode150Rev2: 8
 | 127 | [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | Medium     | [Link](https://neetcode.io/solutions/merge-triplets-to-form-target-triplet) | 7/17    | 7/21     | 9/24   | 9/24   | 11/07   | [[1899. Merge Triplets to Form Target Triplet - Main]] - *好幾種做法可以看* / **練習match和exclude模板 (2nd)** |
 | 128 | [763. Partition Labels](https://leetcode.com/problems/partition-labels/)                                            | Medium     | [Link](https://neetcode.io/solutions/partition-labels)                      | 7/17    | 7/21     | 9/24   | 9/24   | 11/07   | [[763. Partition Labels - Main]] - 資料結構設計，類有點類似 stack 的題型                                         |
 | 129 | [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)                            | Medium     | [Link](https://neetcode.io/solutions/valid-parenthesis-string)              | 7/17    | 7/22     | 9/25   | 9/25   | 11/07   | [[678. Valid Parenthesis String - Main]] - **很難** / **複習第二次還是寫很久 (2nd)**                          |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 860 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Link](https://neetcode.io/solutions/lemonade-change) | | | | | |
+| 918 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Link](https://neetcode.io/solutions/maximum-sum-circular-subarray) | | | | | |
+| 978 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | [Link](https://neetcode.io/solutions/longest-turbulent-subarray) | | | | | |
+| 1871 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | [Link](https://neetcode.io/solutions/jump-game-vii) | | | | | |
+| 649 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [Link](https://neetcode.io/solutions/dota2-senate) | | | | | |
+| 135 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | [Link](https://neetcode.io/solutions/candy) | | | | | |

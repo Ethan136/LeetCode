@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 8
-LeetCode150Finish: 3
-LeetCode150Num: 3
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 3
 LeetCode150ConceptOk: 3
 LeetCode150TestPass: 3
+LeetCode150Finish: 3
 LeetCode150Review: 3
 LeetCode150Rev2: 3
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 1
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 #### 結構
@@ -186,8 +194,17 @@ LeetCode150Rev2: 3
 
 ### Tries
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                                    | Difficulty | Solution                                                                         | Pass | Finish | Review | Review2 | Note                                                                                    |
 | --- | -------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------- | ---- | ------ | ------ | ------- | --------------------------------------------------------------------------------------- |
 | 61  | [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                             | Medium     | [Link](https://neetcode.io/solutions/implement-trie-prefix-tree)                 | 7/05 | 9/21   | 9/21   | 12/09   | [[208. Implement Trie (Prefix Tree) - Main]]<br>Recursive / **Iteration** 各練習一次 (2nd)   |
 | 62  | [211. Design Add & Search Words DS](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | Medium     | [Link](https://neetcode.io/solutions/design-add-and-search-words-data-structure) | 7/06 | 9/21   | 9/21   | 12/10   | [[211. Design Add & Search Words DS - Main]]<br>*Recursive + Iteration 混合 - 模板練習 (2nd)* |
 | 63  | [212. Word Search II](https://leetcode.com/problems/word-search-ii/)                                                       | Hard       | [Link](https://neetcode.io/solutions/word-search-ii)                             | 7/07 | 9/21   | 9/21   | 12/11   | [[212. Word Search II - Main]]<br>**Backtracking + Trie 模板練習 (2nd)**                    |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 2707 | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | [Link](https://neetcode.io/solutions/extra-characters-in-a-string) | | | | | |

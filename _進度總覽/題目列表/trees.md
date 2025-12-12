@@ -1,16 +1,27 @@
 ---
 LeetCodeSeq: 9
-LeetCode150Finish: 15
-LeetCode150Num: 15
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 15
 LeetCode150ConceptOk: 15
 LeetCode150TestPass: 15
+LeetCode150Finish: 15
 LeetCode150Review: 15
 LeetCode150Rev2: 15
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 8
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 
 ### Treesnm 
+
+#### LeetCode 150
+
 
 | #   | Problem                                                                                                                                                    | Difficulty | Solution                                                                                        | Concept | TestPass | Finish | Review | Review 2nd | Note                                                                                                     |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ---------- | -------------------------------------------------------------------------------------------------------- |
@@ -29,3 +40,16 @@ LeetCode150Rev2: 15
 | 58  | [105. Construct Binary Tree from Preorder & Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Medium     | [Link](https://neetcode.io/solutions/construct-binary-tree-from-preorder-and-inorder-traversal) | 7/28    | 7/28     | 9/04   | 9/12   | 10/24      | [[105. Construct Binary Tree from Preorder & Inorder - Main]] - **很難，必練(1st) / 第二次還是寫很久 (2nd)**          |
 | 59  | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                                                           | Hard       | [Link](https://neetcode.io/solutions/binary-tree-maximum-path-sum)                              | 7/29    | 7/29     | 9/04   | 9/03   | 10/24      | [[124. Binary Tree Maximum Path Sum - Main]] - **需要注意 (1st / 2nd 想到的做法不同)，邊界條件容易錯 (2nd)**                |
 | 60  | [297. Serialize & Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)                               | Hard       | [Link](https://neetcode.io/solutions/serialize-and-deserialize-binary-tree)                     | 7/28    | 7/28     | 9/12   | 9/12   | 10/23      | [[297. Serialize & Deserialize Binary Tree - Main]] - **需要注意 (1st) / Serialize 和 de-Serialize 練習 (2nd)** |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 94 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Link](https://neetcode.io/solutions/binary-tree-inorder-traversal) | | | | | |
+| 144 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [Link](https://neetcode.io/solutions/binary-tree-preorder-traversal) | | | | | |
+| 145 | [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | [Link](https://neetcode.io/solutions/binary-tree-postorder-traversal) | | | | | |
+| 701 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Medium | [Link](https://neetcode.io/solutions/insert-into-a-binary-search-tree) | | | | | |
+| 450 | [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | Medium | [Link](https://neetcode.io/solutions/delete-node-in-a-bst) | | | | | |
+| 427 | [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | Medium | [Link](https://neetcode.io/solutions/construct-quad-tree) | | | | | |
+| 337 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | Medium | [Link](https://neetcode.io/solutions/house-robber-iii) | | | | | |
+| 1325 | [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | Medium | [Link](https://neetcode.io/solutions/delete-leaves-with-a-given-value) | | | | | |

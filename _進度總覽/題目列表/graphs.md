@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 11
-LeetCode150Finish: 13
-LeetCode150Num: 13
-LeetCode150TestPass: 13
-LeetCode150ConceptOk: 13
-LeetCode150Review: 13
-LeetCode150Rev2: 13
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage|NeetCode 150 MainPage]]"
+LeetCode150Num: 13
+LeetCode150ConceptOk: 13
+LeetCode150TestPass: 13
+LeetCode150Finish: 13
+LeetCode150Review: 13
+LeetCode150Rev2: 13
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 8
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concepts
 #### 2D Graph Grid
@@ -232,6 +240,9 @@ ParentTask:
 
 ### Graphs
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                                                            | Difficulty | Solution                                                                                    | Concept | TestPass | Finish | Review | Review 2nd | Note                                                                                    |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ---------- | --------------------------------------------------------------------------------------- |
 | 80  | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                         | Medium     | [Link](https://neetcode.io/solutions/number-of-islands)                                     | 8/17    | 8/17     | 10/19  | 10/19  | 11/20      | [[200. Number of Islands - Main]]                                                       |
@@ -247,3 +258,16 @@ ParentTask:
 | 90  | [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | Medium     | [Link](https://neetcode.io/solutions/number-of-connected-components-in-an-undirected-graph) | 8/22    | 8/22     | 10/21  | 10/21  | 11/24      | [[323. Number of Connected Components in an Undirected Graph - Main]] - **和前一個類似，但難很多** |
 | 91  | [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                                                                           | Medium     | [Link](https://neetcode.io/solutions/graph-valid-tree)                                      | 8/23    | 8/23     | 10/21  | 10/21  | 11/24      | [[261. Graph Valid Tree - Main]] - *和前兩個類似，也需要再練習 (1st)* / **valid tree 的意義要釐清 (2nd)**  |
 | 92  | [127. Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                     | Hard       | [Link](https://neetcode.io/solutions/word-ladder)                                           | 8/24    | 8/24     | 10/21  | 10/21  | 11/26      | [[127. Word Ladder - Main]] - **類似 node link 但不太一樣，要複習，不會太複雜(1st)** / *模板化寫法 (2nd)*     |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 463 | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | [Link](https://neetcode.io/solutions/island-perimeter) | | | | | |
+| 953 | [953. Verifying An Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Link](https://neetcode.io/solutions/verifying-an-alien-dictionary) | | | | | |
+| 997 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Link](https://neetcode.io/solutions/find-the-town-judge) | | | | | |
+| 752 | [752. Open The Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Link](https://neetcode.io/solutions/open-the-lock) | | | | | |
+| 1462 | [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | Medium | [Link](https://neetcode.io/solutions/course-schedule-iv) | | | | | |
+| 721 | [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/) | Medium | [Link](https://neetcode.io/solutions/accounts-merge) | | | | | |
+| 399 | [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Link](https://neetcode.io/solutions/evaluate-division) | | | | | |
+| 310 | [310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Link](https://neetcode.io/solutions/minimum-height-trees) | | | | | |

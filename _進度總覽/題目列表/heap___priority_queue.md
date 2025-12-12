@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 9
-LeetCode150Finish: 7
-LeetCode150Num: 7
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 7
 LeetCode150ConceptOk: 7
 LeetCode150TestPass: 7
+LeetCode150Finish: 7
 LeetCode150Review: 7
 LeetCode150Rev2: 7
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 5
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 #### Double Heap (min-max)
@@ -114,6 +122,9 @@ LeetCode150Rev2: 7
 
 ### Heap / Priority Queue
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                | Difficulty | Solution                                                              | Pass | Finish | Review | Review2 | Note                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------- | ---- | ------ | ------ | ------- | ---------------------------------------------------------------------------------- |
 | 64  | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy       | [Link](https://neetcode.io/solutions/kth-largest-element-in-a-stream) | 7/01 | 9/23   | 9/23   | 11/29   | [[703. Kth Largest Element in a Stream - Main]] - 之後要再練一下 (2nd)                    |
@@ -123,3 +134,13 @@ LeetCode150Rev2: 7
 | 68  | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                   | Medium     | [Link](https://neetcode.io/solutions/task-scheduler)                  | 7/03 | 9/24   | 9/24   | 11/29   | [[621. Task Scheduler - Main]] - **難題，必須要複習(1st)** / **細節還要更熟悉 (2nd)**             |
 | 69  | [355. Design Twitter](https://leetcode.com/problems/design-twitter/)                                   | Medium     | [Link](https://neetcode.io/solutions/design-twitter)                  | 7/03 | 9/24   | 9/24   | 11/30   | [[355. Design Twitter - Main]] - **實作複雜，必須練習(1st)** / *不是最佳解，但想起來比較直覺(2nd)*        |
 | 70  | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)       | Hard       | [Link](https://neetcode.io/solutions/find-median-from-data-stream)    | 7/03 | 9/24   | 9/24   | 11/30   | [[295. Find Median from Data Stream - Main]] - **情況判斷容易搞錯(1st)** / *模板化寫法練習 (2nd)* |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 1834 | [1834. Single Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | Medium | [Link](https://neetcode.io/solutions/single-threaded-cpu) | | | | | |
+| 767 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium | [Link](https://neetcode.io/solutions/reorganize-string) | | | | | |
+| 1405 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | [Link](https://neetcode.io/solutions/longest-happy-string) | | | | | |
+| 1094 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | [Link](https://neetcode.io/solutions/car-pooling) | | | | | |
+| 502 | [502. IPO](https://leetcode.com/problems/ipo/) | Hard | [Link](https://neetcode.io/solutions/ipo) | | | | | |

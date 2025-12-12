@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 12
-LeetCode150Finish: 6
-LeetCode150Num: 6
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 6
 LeetCode150ConceptOk: 6
 LeetCode150TestPass: 6
+LeetCode150Finish: 6
 LeetCode150Review: 6
 LeetCode150Rev2: 6
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 4
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 Heap 相關
@@ -117,6 +125,9 @@ Heap 相關
 
 ### Advanced Graphs3
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                | Difficulty | Solution                                                              | Concept | TestPass | Review | Finish | Review2 | Note                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------ | ---------- | --------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ------- | ------------------------------------------------------------------------------------------------------------------ |
 | 93  | [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                     | Hard       | [Link](https://neetcode.io/solutions/reconstruct-itinerary)           | 8/29    | 8/29     | 10/22  | 10/22  | 11/18   | [[332. Reconstruct Itinerary - Main]] - **尤拉環，之後要再複習，容易忘記**                                                        |
@@ -125,3 +136,12 @@ Heap 相關
 | 96  | [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)                       | Hard       | [Link](https://neetcode.io/solutions/swim-in-rising-water)            | 8/27    | 8/27     | 10/23  | 10/23  | 11/21   | [[778. Swim in Rising Water - Main]] - **Dijkstra 變體，要能夠判斷出題目的模態(1st)**                                            |
 | 97  | [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)                               | Hard       | [Link](https://neetcode.io/solutions/alien-dictionary)                | 8/30    | 8/30     | 10/23  | 10/23  | 11/18   | [[269. Alien Dictionary - Main]] - **Kahn 變體，難在建圖和實作量偏大(1st)** / *模板寫法減少很多實作內容 (2nd)*                              |
 | 98  | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium     | [Link](https://neetcode.io/solutions/cheapest-flights-within-k-stops) | 8/28    | 8/28     | 10/22  | 10/22  | 11/18   | [[787. Cheapest Flights Within K Stops - Main]] - **Dijkstra 變化型難題，很容易錯，邊界條件很多，要再複習(1st)** / **第二次寫還是寫錯很多次 (2nd)** |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 1631 | [1631. Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Link](https://neetcode.io/solutions/path-with-minimum-effort) | | | | | |
+| 1489 | [1489. Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard | [Link](https://neetcode.io/solutions/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | | | | | |
+| 2392 | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | [Link](https://neetcode.io/solutions/build-a-matrix-with-conditions) | | | | | |
+| 2709 | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Hard | [Link](https://neetcode.io/solutions/greatest-common-divisor-traversal) | | | | | |

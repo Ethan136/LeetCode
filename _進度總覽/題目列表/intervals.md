@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 16
+ParentTask:
+  - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 6
 LeetCode150ConceptOk: 6
 LeetCode150TestPass: 6
 LeetCode150Finish: 6
-LeetCode150Num: 6
-ParentTask:
-  - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
 LeetCode150Review: 6
 LeetCode150Rev2: 6
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 1
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### 模板
 #### 核心概念
@@ -34,6 +42,9 @@ LeetCode150Rev2: 6
 
 ### Intervals
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                               | Difficulty | Solution                                                                     | Concept | TestPass | Finish | Review | Review 2nd | Note                                                                                                                              |
 | --- | --------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 130 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/)                                                 | Medium     | [Link](https://neetcode.io/solutions/insert-interval)                        | 7/18    | 7/23     | 9/25   | 9/25   | 11/03      | [[57. Insert Interval - Main]] - **如果要直接改原始 vector 符合答案，就蠻難的(1st)** / **構思 2 interval arrays 萬用解 (2nd)**                          |
@@ -42,3 +53,9 @@ LeetCode150Rev2: 6
 | 133 | [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                                                    | Easy       | [Link](https://neetcode.io/solutions/meeting-rooms)                          | 7/18    | 7/23     | 10/08  | 10/08  | 11/03      | [[252. Meeting Rooms - Main]]                                                                                                     |
 | 134 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                              | Medium     | [Link](https://neetcode.io/solutions/meeting-rooms-ii)                       | 7/18    | 7/23     | 10/08  | 10/08  | 11/03      | [[253. Meeting Rooms II - Main]] - **難題，一開始的想法是錯的，但寫錯的code剛好答對(1st) / 使用 heap 來記錄每個 room 到情況 (2nd)**                              |
 | 135 | [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | Hard       | [Link](https://neetcode.io/solutions/minimum-interval-to-include-each-query) | 7/23    | 7/23     | 10/08  | 10/08  | 11/05      | [[1851. Minimum Interval to Include Each Query - Main]] - **難題：double sort + match + resotre index (1st)** / *不容易想到要如何搭配模板，(2nd)* |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 2402 | [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/) | Hard | [Link](https://neetcode.io/solutions/meeting-rooms-iii) | | | | | |

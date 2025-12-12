@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 13
-LeetCode150Finish: 12
-LeetCode150Num: 12
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 12
 LeetCode150ConceptOk: 12
 LeetCode150TestPass: 12
+LeetCode150Finish: 12
 LeetCode150Review: 12
 LeetCode150Rev2: 12
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 5
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 - **針對可以選擇一次 traverse 1 格 or 多格的情況：一律以當前 index 為基準**
@@ -42,6 +50,8 @@ LeetCode150Rev2: 12
 
 ### 1-D Dynamic Programming
 
+#### LeetCode 150
+
 | #   | Problem                                                                                              | Difficulty | Solution                                                             | PassTest | Finish | Review | Review 2nd | Note                                                                                                                                    |
 | --- | ---------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------- | -------- | ------ | ------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 99  | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                | Easy       | [Link](https://neetcode.io/solutions/climbing-stairs)                | 7/09     | 10/11  | 10/11  | 11/11      | [[70. Climbing Stairs - Main]]                                                                                                          |
@@ -56,3 +66,12 @@ LeetCode150Rev2: 12
 | 108 | [139. Word Break](https://leetcode.com/problems/word-break/)                                         | Medium     | [Link](https://neetcode.io/solutions/word-break)                     | 7/14     | 10/14  | 10/14  | 11/16      | [[139. Word Break - Main]] - *複習的時候一度想不到解法，之後要再練 (1st)* / **跳格子變化題，一開始想不到解法 (2nd)**                                                     |
 | 109 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium     | [Link](https://neetcode.io/solutions/longest-increasing-subsequence) | 7/14     | 10/14  | 10/14  | 11/16      | [[300. Longest Increasing Subsequence - Main]] - *複習的時候一度想不到解法，之後要再練(1st)*                                                              |
 | 110 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)         | Medium     | [Link](https://neetcode.io/solutions/partition-equal-subset-sum)     | 7/14     | 10/14  | 10/14  | 11/16      | [[416. Partition Equal Subset Sum - Main]] - **很難，一直寫錯(1st)** / **一開始完全想不到(2nd)**                                                       |
+
+#### LeetCode 151-250
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 1137 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [Link](https://neetcode.io/solutions/n-th-tribonacci-number) | | | | | |
+| 377 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Link](https://neetcode.io/solutions/combination-sum-iv) | | | | | |
+| 279 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Link](https://neetcode.io/solutions/perfect-squares) | | | | | |
+| 343 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Link](https://neetcode.io/solutions/integer-break) | | | | | |
+| 1406 | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | [Link](https://neetcode.io/solutions/stone-game-iii) | | | | | |

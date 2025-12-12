@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 3
-LeetCode150Finish: 6
-LeetCode150Num: 6
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 6
 LeetCode150ConceptOk: 6
 LeetCode150TestPass: 6
+LeetCode150Finish: 6
 LeetCode150Review: 6
 LeetCode150Rev2: 6
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 3
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 
 ### Sliding Window
@@ -39,6 +47,9 @@ LeetCode150Rev2: 6
 	- [[567. Permutation in String]]
 	- [[239. Sliding Window Maximum - Main]]
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                                                            | Difficulty | Solution                                                                             | Status      | Review | Review2 | Note                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ | ----------- | ------ | ------- | ------------------------------------------------------------------------------------------- |
 | 15  | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                             | Easy       | [Link](https://neetcode.io/solutions/best-time-to-buy-and-sell-stock)                | 6/14 Finish | 9/14   | 10/29   | [[121. Best Time to Buy and Sell Stock - Main]]                                             |
@@ -47,3 +58,11 @@ LeetCode150Rev2: 6
 | 18  | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                 | Medium     | [Link](https://neetcode.io/solutions/permutation-in-string)                          | 6/14 Finish | 9/15   | 10/29   | [[567. Permutation in String]] - **難題，要複習(1st) / 想了一陣，邊界條件容易錯，每次解法都不太一樣(2nd)**              |
 | 19  | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                            | Hard       | [Link](https://neetcode.io/solutions/minimum-window-substring)                       | 6/14 Finish | 9/15   | 10/30   | [[76. Minimum Window Substring - Main]] - **邊界條件要注意(1st) / window 收縮條件要注意 (2nd)**           |
 | 20  | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                               | Hard       | [Link](https://neetcode.io/solutions/sliding-window-maximum)                         | 6/14 Finish | 9/15   | 10/30   | [[239. Sliding Window Maximum - Main]] - **邊界條件要注意(1st) / 特性和其他的 sliding window 不一樣 (2nd)** |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 219 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Link](https://neetcode.io/solutions/contains-duplicate-ii) | | | | | |
+| 209 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Link](https://neetcode.io/solutions/minimum-size-subarray-sum) | | | | | |
+| 658 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | [Link](https://neetcode.io/solutions/find-k-closest-elements) | | | | | |

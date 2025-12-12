@@ -1,16 +1,27 @@
 ---
 LeetCodeSeq: 17
-LeetCode150Finish: 8
-LeetCode150Num: 8
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 8
 LeetCode150ConceptOk: 8
 LeetCode150TestPass: 8
+LeetCode150Finish: 8
 LeetCode150Review: 8
 LeetCode150Rev2: 8
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 5
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 
 ### Math & Geometry
+
+#### LeetCode 150
+
 
 | #   | Problem                                                                   | Difficulty | Solution                                                | Concept | PassTest | Finish | Review | Review2 | Note                                                                                                                                 |
 | --- | ------------------------------------------------------------------------- | ---------- | ------------------------------------------------------- | ------- | -------- | ------ | ------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -22,3 +33,13 @@ LeetCode150Rev2: 8
 | 141 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)                    | Medium     | [Link](https://neetcode.io/solutions/powx-n)            | 8/06    | 8/06     | 10/10  | 10/10  | 11/01   | [[50. Pow(x, n) - Main]] - bit manipulation 搭配(1st) / **使用上需要在註解先寫好類似 double mapping 的關聯性(2nd)**                                     |
 | 142 | [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)   | Medium     | [Link](https://neetcode.io/solutions/multiply-strings)  | 8/07    | 8/07     | 10/10  | 10/10  | 11/01   | [[43. Multiply Strings - Main]]- *難題，很多邊界條件和動態長度要思考 + 搭配 DP + string 的數字處理(1st)* / **實作和流程較為複雜，需要先註解定好執行流程(2nd)**                    |
 | 143 | [2013. Detect Squares](https://leetcode.com/problems/detect-squares/)     | Medium     | [Link](https://neetcode.io/solutions/detect-squares)    | 8/07    | 8/08     | 10/10  | 10/10  | 11/03   | [[2013. Detect Squares - Main]] - *難想，double mapping 計算*                                                                             |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 168 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Link](https://neetcode.io/solutions/excel-sheet-column-title) | | | | | |
+| 1071 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Link](https://neetcode.io/solutions/greatest-common-divisor-of-strings) | | | | | |
+| 2807 | [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | [Link](https://neetcode.io/solutions/insert-greatest-common-divisors-in-linked-list) | | | | | |
+| 867 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Link](https://neetcode.io/solutions/transpose-matrix) | | | | | |
+| 13 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Link](https://neetcode.io/solutions/roman-to-integer) | | | | | |

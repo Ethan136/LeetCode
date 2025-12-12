@@ -1,13 +1,21 @@
 ---
 LeetCodeSeq: 6
-LeetCode150Finish: 11
-LeetCode150Num: 11
 ParentTask:
   - "[[LeetCode/_進度總覽/NeetCode 150 MainPage]]"
+LeetCode150Num: 11
 LeetCode150ConceptOk: 11
 LeetCode150TestPass: 11
+LeetCode150Finish: 11
 LeetCode150Review: 11
 LeetCode150Rev2: 11
+ParentTask2:
+  - "[[NeetCode 250 MainPage]]"
+LeetCode250Num: 3
+LeetCode250ConceptOk:
+LeetCode250TestPass:
+LeetCode250Finish:
+LeetCode250Review:
+LeetCode250Rev2:
 ---
 ### Concept
 #### Link List Basic Operation
@@ -402,6 +410,9 @@ LeetCode150Rev2: 11
 
 ### Linked List
 
+#### LeetCode 150
+
+
 | #   | NeetCode | Problem                                                                                                 | Difficulty | Solution                                                               | Status      | Review | Review 2nd | Note                                            |                                                                                          |
 | --- | -------- | ------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------- | ----------- | ------ | ---------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | 35  | 150      | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                          | Easy       | [Link](https://neetcode.io/solutions/reverse-linked-list)              | Finish 7/03 | 9/19   | 11/26      | [[206. Reverse Linked List - Main]]             |                                                                                          |
@@ -416,3 +427,11 @@ LeetCode150Rev2: 11
 | 44  | 150      | [23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                         | Hard       | [Link](https://neetcode.io/solutions/merge-k-sorted-lists)             | Finish 7/05 | 9/20   | 11/26      | [[23. Merge K Sorted Lists - Main]]             | **概念沒有很難，但很多細節容易出錯**<br>**練習用 reference to pointer 來實作 list merge (1st)** / 通用模板練習 (2nd) |
 | 45  | 150      | [25. Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                 | Hard       | [Link](https://neetcode.io/solutions/reverse-nodes-in-k-group)         | Finish 7/05 | 9/20   | 11/28      | [[25. Reverse Nodes in K-Group - Main]]         | **實作複雜 (1st)** / **必練3rd，多重模板運用(2nd)**                                                   |
 | 148 |          | [148. Sort List](https://leetcode.com/problems/sort-list/description/)                                  | Medium     |                                                                        | Finish 9/20 | 9/20   | 11/28      | [[148. SortList - Main]]                        | **練習 merge sort (1st)** / **必練3rd，多重模板運用 (2nd)**                                         |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 92 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Link](https://neetcode.io/solutions/reverse-linked-list-ii) | | | | | |
+| 622 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [Link](https://neetcode.io/solutions/design-circular-queue) | | | | | |
+| 460 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | [Link](https://neetcode.io/solutions/lfu-cache) | | | | | |

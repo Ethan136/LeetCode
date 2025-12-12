@@ -27,6 +27,9 @@ LeetCode250Rev2:
 
 ### Arrays & Hashing
 
+#### LeetCode 150
+
+
 | #   | Problem                                                                                          | Difficulty | Solution                                                           | Status                  | Review | Review2 | Note                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------ | ----------------------- | ------ | ------- | --------------------------------------------------------------------------------------------------------------- |
 | 1   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                     | Easy       | [Link](https://neetcode.io/solutions/contains-duplicate)           | Finish 6/11             | 9/03   | 10/23   | [[217. Contains Duplicate - Main]]                                                                              |
@@ -38,3 +41,21 @@ LeetCode250Rev2:
 | 7   | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                  | Medium     | [Link](https://neetcode.io/solutions/valid-sudoku)                 | Finish 6/13             | 9/13   | 10/27   | [[36. Valid Sudoku - Main]]                                                                                     |
 | 8   | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)       | Medium     | [Link](https://neetcode.io/solutions/encode-and-decode-strings)    | Finish 9/13 (Pass 8/16) | 9/13   | 10/27   | [[271. Encode and Decode Strings - Main]] - **string 操作需要複習和熟悉(1st) / encode + string 的題目仍然要多練習 (2nd)**         |
 | 9   | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium     | [Link](https://neetcode.io/solutions/longest-consecutive-se)       | Finish 6/13             | 9/13   | 11/09   | [[128. Longest Consecutive Sequence - Main]] - **unordered_set 使用 vector 初始化 + 查詢連續數字(1st)  / 仍然沒辦法直接想到 (2nd)** |
+
+#### LeetCode 151-250
+
+| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
+|---|---|---|---|---|---|---|---|---|
+| 1929 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [Link](https://neetcode.io/solutions/concatenation-of-array) | | | | | |
+| 14 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Link](https://neetcode.io/solutions/longest-common-prefix) | | | | | |
+| 27 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Link](https://neetcode.io/solutions/remove-element) | | | | | |
+| 169 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Link](https://neetcode.io/solutions/majority-element) | | | | | |
+| 705 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [Link](https://neetcode.io/solutions/design-hashset) | | | | | |
+| 706 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Link](https://neetcode.io/solutions/design-hashmap) | | | | | |
+| 912 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Link](https://neetcode.io/solutions/sort-an-array) | | | | | |
+| 75 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Link](https://neetcode.io/solutions/sort-colors) | | | | | |
+| 304 | [304. Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Link](https://neetcode.io/solutions/range-sum-query-2d-immutable) | | | | | |
+| 122 | [122. Best Time to Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [Link](https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-ii) | | | | | |
+| 229 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Link](https://neetcode.io/solutions/majority-element-ii) | | | | | |
+| 560 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Link](https://neetcode.io/solutions/subarray-sum-equals-k) | | | | | |
+| 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Link](https://neetcode.io/solutions/first-missing-positive) | | | | | |
