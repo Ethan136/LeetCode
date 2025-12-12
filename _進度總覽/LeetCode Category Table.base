@@ -1,0 +1,17 @@
+properties:
+  note.LeetCodeConceptOk:
+    displayName: LeetCode150ConceptOk
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("LeetCode/_進度總覽/題目列表")
+    order:
+      - file.name
+      - LeetCode150ConceptOk
+      - LeetCode150Finish
+      - LeetCode150Num
+      - LeetCode150Rev2
+      - LeetCode150TestPass
+      - LeetCode150Review
