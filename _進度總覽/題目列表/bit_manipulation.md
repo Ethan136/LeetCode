@@ -11,12 +11,15 @@ LeetCode150Rev2: 7
 ParentTask2:
   - "[[NeetCode 250 MainPage]]"
 LeetCode250Num: 3
-LeetCode250ConceptOk:
-LeetCode250TestPass:
-LeetCode250Finish:
+LeetCode250ConceptOk: 3
+LeetCode250TestPass: 3
+LeetCode250Finish: 3
 LeetCode250Review:
 LeetCode250Rev2:
 ---
+
+### Concept
+- [ ] two num add / bit operation / linked list num add -> **需要整合模板**
 
 ### Bit Manipulation
 
@@ -35,8 +38,8 @@ LeetCode250Rev2:
 
 #### LeetCode 151-250
 
-| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
-|---|---|---|---|---|---|---|---|---|
-| 67 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Link](https://neetcode.io/solutions/add-binary) | | | | | |
-| 201 | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | [Link](https://neetcode.io/solutions/bitwise-and-of-numbers-range) | | | | | |
-| 3133 | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/) | Medium | [Link](https://neetcode.io/solutions/minimum-array-end) | | | | | |
+| #    | Problem                                                                                          | Difficulty | Solution                                                           | PassTest | Finish | Review | Review 2nd | Note                                                                 |
+| ---- | ------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------ | -------- | ------ | ------ | ---------- | -------------------------------------------------------------------- |
+| 67   | [67. Add Binary](https://leetcode.com/problems/add-binary/)                                      | Easy       | [Link](https://neetcode.io/solutions/add-binary)                   | 12/23    | 12/23  |        |            | [[67. Add Binary]]                                                   |
+| 201  | [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium     | [Link](https://neetcode.io/solutions/bitwise-and-of-numbers-range) | 12/24    | 12/24  |        |            | [[201. Bitwise AND of Numbers Range]] - **一開始完全想不到，bit 進位意義需要筆記到模板** |
+| 3133 | [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/)                      | Medium     | [Link](https://neetcode.io/solutions/minimum-array-end)            | 12/24    | 12/24  |        |            | [[3133. Minimum Array End]] - **和 201 有點類似，但也是完全想不到作法**              |
