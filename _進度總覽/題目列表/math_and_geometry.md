@@ -38,8 +38,8 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 168 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Link](https://neetcode.io/solutions/excel-sheet-column-title) | | | | | |
-| 1071 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Link](https://neetcode.io/solutions/greatest-common-divisor-of-strings) | | | | | |
-| 2807 | [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | [Link](https://neetcode.io/solutions/insert-greatest-common-divisors-in-linked-list) | | | | | |
-| 867 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Link](https://neetcode.io/solutions/transpose-matrix) | | | | | |
-| 13 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Link](https://neetcode.io/solutions/roman-to-integer) | | | | | |
+| 168 | [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Link](https://neetcode.io/solutions/excel-sheet-column-title) | | | | | [[168. Excel Sheet Column Title - Main]] |
+| 1071 | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Link](https://neetcode.io/solutions/greatest-common-divisor-of-strings) | | | | | [[1071. Greatest Common Divisor of Strings - Main]] |
+| 2807 | [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Medium | [Link](https://neetcode.io/solutions/insert-greatest-common-divisors-in-linked-list) | | | | | [[2807. Insert Greatest Common Divisors in Linked List - Main]] |
+| 867 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Link](https://neetcode.io/solutions/transpose-matrix) | | | | | [[867. Transpose Matrix - Main]] |
+| 13 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Link](https://neetcode.io/solutions/roman-to-integer) | | | | | [[13. Roman to Integer - Main]] |

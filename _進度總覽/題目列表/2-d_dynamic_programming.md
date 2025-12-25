@@ -131,8 +131,8 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 63 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Link](https://neetcode.io/solutions/unique-paths-ii) | | | | | |
-| 64 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Link](https://neetcode.io/solutions/minimum-path-sum) | | | | | |
-| 1049 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | Medium | [Link](https://neetcode.io/solutions/last-stone-weight-ii) | | | | | |
-| 877 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [Link](https://neetcode.io/solutions/stone-game) | | | | | |
-| 1140 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium | [Link](https://neetcode.io/solutions/stone-game-ii) | | | | | |
+| 63 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Link](https://neetcode.io/solutions/unique-paths-ii) | | | | | [[63. Unique Paths II - Main]] |
+| 64 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Link](https://neetcode.io/solutions/minimum-path-sum) | | | | | [[64. Minimum Path Sum - Main]] |
+| 1049 | [1049. Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | Medium | [Link](https://neetcode.io/solutions/last-stone-weight-ii) | | | | | [[1049. Last Stone Weight II - Main]] |
+| 877 | [877. Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [Link](https://neetcode.io/solutions/stone-game) | | | | | [[877. Stone Game - Main]] |
+| 1140 | [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium | [Link](https://neetcode.io/solutions/stone-game-ii) | | | | | [[1140. Stone Game II - Main]] |

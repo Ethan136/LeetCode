@@ -139,8 +139,8 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 1834 | [1834. Single Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | Medium | [Link](https://neetcode.io/solutions/single-threaded-cpu) | | | | | |
-| 767 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium | [Link](https://neetcode.io/solutions/reorganize-string) | | | | | |
-| 1405 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | [Link](https://neetcode.io/solutions/longest-happy-string) | | | | | |
-| 1094 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | [Link](https://neetcode.io/solutions/car-pooling) | | | | | |
-| 502 | [502. IPO](https://leetcode.com/problems/ipo/) | Hard | [Link](https://neetcode.io/solutions/ipo) | | | | | |
+| 1834 | [1834. Single Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | Medium | [Link](https://neetcode.io/solutions/single-threaded-cpu) | | | | | [[1834. Single Threaded CPU - Main]] |
+| 767 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium | [Link](https://neetcode.io/solutions/reorganize-string) | | | | | [[767. Reorganize String - Main]] |
+| 1405 | [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | Medium | [Link](https://neetcode.io/solutions/longest-happy-string) | | | | | [[1405. Longest Happy String - Main]] |
+| 1094 | [1094. Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | [Link](https://neetcode.io/solutions/car-pooling) | | | | | [[1094. Car Pooling - Main]] |
+| 502 | [502. IPO](https://leetcode.com/problems/ipo/) | Hard | [Link](https://neetcode.io/solutions/ipo) | | | | | [[502. IPO - Main]] |

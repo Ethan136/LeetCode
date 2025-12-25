@@ -57,11 +57,11 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 682 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [Link](https://neetcode.io/solutions/baseball-game) | | | | | |
-| 225 | [225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Link](https://neetcode.io/solutions/implement-stack-using-queues) | | | | | |
-| 232 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Link](https://neetcode.io/solutions/implement-queue-using-stacks) | | | | | |
-| 735 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [Link](https://neetcode.io/solutions/asteroid-collision) | | | | | |
-| 901 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Link](https://neetcode.io/solutions/online-stock-span) | | | | | |
-| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Link](https://neetcode.io/solutions/simplify-path) | | | | | |
-| 394 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Link](https://neetcode.io/solutions/decode-string) | | | | | |
-| 895 | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard | [Link](https://neetcode.io/solutions/maximum-frequency-stack) | | | | | |
+| 682 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | [Link](https://neetcode.io/solutions/baseball-game) | | | | | [[682. Baseball Game - Main]] |
+| 225 | [225. Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Link](https://neetcode.io/solutions/implement-stack-using-queues) | | | | | [[225. Implement Stack Using Queues - Main]] |
+| 232 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Link](https://neetcode.io/solutions/implement-queue-using-stacks) | | | | | [[232. Implement Queue using Stacks - Main]] |
+| 735 | [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [Link](https://neetcode.io/solutions/asteroid-collision) | | | | | [[735. Asteroid Collision - Main]] |
+| 901 | [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | [Link](https://neetcode.io/solutions/online-stock-span) | | | | | [[901. Online Stock Span - Main]] |
+| 71 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Link](https://neetcode.io/solutions/simplify-path) | | | | | [[71. Simplify Path - Main]] |
+| 394 | [394. Decode String](https://leetcode.com/problems/decode-string/) | Medium | [Link](https://neetcode.io/solutions/decode-string) | | | | | [[394. Decode String - Main]] |
+| 895 | [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | Hard | [Link](https://neetcode.io/solutions/maximum-frequency-stack) | | | | | [[895. Maximum Frequency Stack - Main]] |

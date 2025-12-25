@@ -120,10 +120,10 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Link](https://neetcode.io/solutions/search-insert-position) | | | | | |
-| 374 | [374. Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Link](https://neetcode.io/solutions/guess-number-higher-or-lower) | | | | | |
-| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Link](https://neetcode.io/solutions/sqrtx) | | | | | |
-| 1011 | [1011. Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Link](https://neetcode.io/solutions/capacity-to-ship-packages-within-d-days) | | | | | |
-| 81 | [81. Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [Link](https://neetcode.io/solutions/search-in-rotated-sorted-array-ii) | | | | | |
-| 410 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Link](https://neetcode.io/solutions/split-array-largest-sum) | | | | | |
-| 1095 | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [Link](https://neetcode.io/solutions/find-in-mountain-array) | | | | | |
+| 35 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Link](https://neetcode.io/solutions/search-insert-position) | | | | | [[35. Search Insert Position - Main]] |
+| 374 | [374. Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Link](https://neetcode.io/solutions/guess-number-higher-or-lower) | | | | | [[374. Guess Number Higher Or Lower - Main]] |
+| 69 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [Link](https://neetcode.io/solutions/sqrtx) | | | | | [[69. Sqrt(x) - Main]] |
+| 1011 | [1011. Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Link](https://neetcode.io/solutions/capacity-to-ship-packages-within-d-days) | | | | | [[1011. Capacity to Ship Packages Within D Days - Main]] |
+| 81 | [81. Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [Link](https://neetcode.io/solutions/search-in-rotated-sorted-array-ii) | | | | | [[81. Search In Rotated Sorted Array II - Main]] |
+| 410 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Link](https://neetcode.io/solutions/split-array-largest-sum) | | | | | [[410. Split Array Largest Sum - Main]] |
+| 1095 | [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [Link](https://neetcode.io/solutions/find-in-mountain-array) | | | | | [[1095. Find in Mountain Array - Main]] |

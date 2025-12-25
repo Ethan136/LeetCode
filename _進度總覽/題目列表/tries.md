@@ -207,4 +207,4 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 2707 | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | [Link](https://neetcode.io/solutions/extra-characters-in-a-string) | | | | | |
+| 2707 | [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | [Link](https://neetcode.io/solutions/extra-characters-in-a-string) | | | | | [[2707. Extra Characters in a String - Main]] |

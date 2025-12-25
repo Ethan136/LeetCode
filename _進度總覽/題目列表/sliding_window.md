@@ -63,6 +63,6 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 219 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Link](https://neetcode.io/solutions/contains-duplicate-ii) | | | | | |
-| 209 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Link](https://neetcode.io/solutions/minimum-size-subarray-sum) | | | | | |
-| 658 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | [Link](https://neetcode.io/solutions/find-k-closest-elements) | | | | | |
+| 219 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Link](https://neetcode.io/solutions/contains-duplicate-ii) | | | | | [[219. Contains Duplicate II - Main]] |
+| 209 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Link](https://neetcode.io/solutions/minimum-size-subarray-sum) | | | | | [[209. Minimum Size Subarray Sum - Main]] |
+| 658 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | [Link](https://neetcode.io/solutions/find-k-closest-elements) | | | | | [[658. Find K Closest Elements - Main]] |

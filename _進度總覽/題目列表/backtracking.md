@@ -177,10 +177,10 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 1863 | [1863. Sum of All Subsets XOR Total](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Link](https://neetcode.io/solutions/sum-of-all-subset-xor-totals) | | | | | |
-| 77 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [Link](https://neetcode.io/solutions/combinations) | | | | | |
-| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Link](https://neetcode.io/solutions/permutations-ii) | | | | | |
-| 473 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Medium | [Link](https://neetcode.io/solutions/matchsticks-to-square) | | | | | |
-| 698 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | Medium | [Link](https://neetcode.io/solutions/partition-to-k-equal-sum-subsets) | | | | | |
-| 52 | [52. N Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Link](https://neetcode.io/solutions/n-queens-ii) | | | | | |
-| 140 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Link](https://neetcode.io/solutions/word-break-ii) | | | | | |
+| 1863 | [1863. Sum of All Subsets XOR Total](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | Easy | [Link](https://neetcode.io/solutions/sum-of-all-subset-xor-totals) | | | | | [[1863. Sum of All Subsets XOR Total - Main]] |
+| 77 | [77. Combinations](https://leetcode.com/problems/combinations/) | Medium | [Link](https://neetcode.io/solutions/combinations) | | | | | [[77. Combinations - Main]] |
+| 47 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [Link](https://neetcode.io/solutions/permutations-ii) | | | | | [[47. Permutations II - Main]] |
+| 473 | [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | Medium | [Link](https://neetcode.io/solutions/matchsticks-to-square) | | | | | [[473. Matchsticks to Square - Main]] |
+| 698 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | Medium | [Link](https://neetcode.io/solutions/partition-to-k-equal-sum-subsets) | | | | | [[698. Partition to K Equal Sum Subsets - Main]] |
+| 52 | [52. N Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Link](https://neetcode.io/solutions/n-queens-ii) | | | | | [[52. N Queens II - Main]] |
+| 140 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | [Link](https://neetcode.io/solutions/word-break-ii) | | | | | [[140. Word Break II - Main]] |

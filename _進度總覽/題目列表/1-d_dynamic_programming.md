@@ -70,8 +70,8 @@ LeetCode250Rev2:
 #### LeetCode 151-250
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 1137 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [Link](https://neetcode.io/solutions/n-th-tribonacci-number) | | | | | |
-| 377 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Link](https://neetcode.io/solutions/combination-sum-iv) | | | | | |
-| 279 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Link](https://neetcode.io/solutions/perfect-squares) | | | | | |
-| 343 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Link](https://neetcode.io/solutions/integer-break) | | | | | |
-| 1406 | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | [Link](https://neetcode.io/solutions/stone-game-iii) | | | | | |
+| 1137 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [Link](https://neetcode.io/solutions/n-th-tribonacci-number) | | | | | [[1137. N-th Tribonacci Number - Main]] |
+| 377 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Link](https://neetcode.io/solutions/combination-sum-iv) | | | | | [[377. Combination Sum IV - Main]] |
+| 279 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | [Link](https://neetcode.io/solutions/perfect-squares) | | | | | [[279. Perfect Squares - Main]] |
+| 343 | [343. Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Link](https://neetcode.io/solutions/integer-break) | | | | | [[343. Integer Break - Main]] |
+| 1406 | [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | [Link](https://neetcode.io/solutions/stone-game-iii) | | | | | [[1406. Stone Game III - Main]] |

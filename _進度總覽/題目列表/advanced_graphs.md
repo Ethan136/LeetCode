@@ -141,7 +141,7 @@ Heap 相關
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 1631 | [1631. Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Link](https://neetcode.io/solutions/path-with-minimum-effort) | | | | | |
-| 1489 | [1489. Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard | [Link](https://neetcode.io/solutions/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | | | | | |
-| 2392 | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | [Link](https://neetcode.io/solutions/build-a-matrix-with-conditions) | | | | | |
-| 2709 | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Hard | [Link](https://neetcode.io/solutions/greatest-common-divisor-traversal) | | | | | |
+| 1631 | [1631. Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Link](https://neetcode.io/solutions/path-with-minimum-effort) | | | | | [[1631. Path with Minimum Effort - Main]] |
+| 1489 | [1489. Find Critical and Pseudo Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard | [Link](https://neetcode.io/solutions/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | | | | | [[1489. Find Critical and Pseudo Critical Edges in Minimum Spanning Tree - Main]] |
+| 2392 | [2392. Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/) | Hard | [Link](https://neetcode.io/solutions/build-a-matrix-with-conditions) | | | | | [[2392. Build a Matrix With Conditions - Main]] |
+| 2709 | [2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | Hard | [Link](https://neetcode.io/solutions/greatest-common-divisor-traversal) | | | | | [[2709. Greatest Common Divisor Traversal - Main]] |

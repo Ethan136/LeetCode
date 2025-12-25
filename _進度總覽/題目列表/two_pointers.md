@@ -39,11 +39,11 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 344 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Link](https://neetcode.io/solutions/reverse-string) | | | | | |
-| 680 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [Link](https://neetcode.io/solutions/valid-palindrome-ii) | | | | | |
-| 1768 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [Link](https://neetcode.io/solutions/merge-strings-alternately) | | | | | |
-| 88 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Link](https://neetcode.io/solutions/merge-sorted-array) | | | | | |
-| 26 | [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Link](https://neetcode.io/solutions/remove-duplicates-from-sorted-array) | | | | | |
-| 18 | [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | [Link](https://neetcode.io/solutions/4sum) | | | | | |
-| 189 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Link](https://neetcode.io/solutions/rotate-array) | | | | | |
-| 881 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Link](https://neetcode.io/solutions/boats-to-save-people) | | | | | |
+| 344 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Link](https://neetcode.io/solutions/reverse-string) | | | | | [[344. Reverse String - Main]] |
+| 680 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [Link](https://neetcode.io/solutions/valid-palindrome-ii) | | | | | [[680. Valid Palindrome II - Main]] |
+| 1768 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [Link](https://neetcode.io/solutions/merge-strings-alternately) | | | | | [[1768. Merge Strings Alternately - Main]] |
+| 88 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Link](https://neetcode.io/solutions/merge-sorted-array) | | | | | [[88. Merge Sorted Array - Main]] |
+| 26 | [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Link](https://neetcode.io/solutions/remove-duplicates-from-sorted-array) | | | | | [[26. Remove Duplicates From Sorted Array - Main]] |
+| 18 | [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | [Link](https://neetcode.io/solutions/4sum) | | | | | [[18. 4Sum - Main]] |
+| 189 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Link](https://neetcode.io/solutions/rotate-array) | | | | | [[189. Rotate Array - Main]] |
+| 881 | [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Link](https://neetcode.io/solutions/boats-to-save-people) | | | | | [[881. Boats to Save People - Main]] |

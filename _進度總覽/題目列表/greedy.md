@@ -65,9 +65,9 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 860 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Link](https://neetcode.io/solutions/lemonade-change) | | | | | |
-| 918 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Link](https://neetcode.io/solutions/maximum-sum-circular-subarray) | | | | | |
-| 978 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | [Link](https://neetcode.io/solutions/longest-turbulent-subarray) | | | | | |
-| 1871 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | [Link](https://neetcode.io/solutions/jump-game-vii) | | | | | |
-| 649 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [Link](https://neetcode.io/solutions/dota2-senate) | | | | | |
-| 135 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | [Link](https://neetcode.io/solutions/candy) | | | | | |
+| 860 | [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | [Link](https://neetcode.io/solutions/lemonade-change) | | | | | [[860. Lemonade Change - Main]] |
+| 918 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Link](https://neetcode.io/solutions/maximum-sum-circular-subarray) | | | | | [[918. Maximum Sum Circular Subarray - Main]] |
+| 978 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | [Link](https://neetcode.io/solutions/longest-turbulent-subarray) | | | | | [[978. Longest Turbulent Subarray - Main]] |
+| 1871 | [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | Medium | [Link](https://neetcode.io/solutions/jump-game-vii) | | | | | [[1871. Jump Game VII - Main]] |
+| 649 | [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [Link](https://neetcode.io/solutions/dota2-senate) | | | | | [[649. Dota2 Senate - Main]] |
+| 135 | [135. Candy](https://leetcode.com/problems/candy/) | Hard | [Link](https://neetcode.io/solutions/candy) | | | | | [[135. Candy - Main]] |

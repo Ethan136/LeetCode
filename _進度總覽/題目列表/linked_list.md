@@ -432,6 +432,6 @@ LeetCode250Rev2:
 
 | # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
 |---|---|---|---|---|---|---|---|---|
-| 92 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Link](https://neetcode.io/solutions/reverse-linked-list-ii) | | | | | |
-| 622 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [Link](https://neetcode.io/solutions/design-circular-queue) | | | | | |
-| 460 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | [Link](https://neetcode.io/solutions/lfu-cache) | | | | | |
+| 92 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Link](https://neetcode.io/solutions/reverse-linked-list-ii) | | | | | [[92. Reverse Linked List II - Main]] |
+| 622 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | [Link](https://neetcode.io/solutions/design-circular-queue) | | | | | [[622. Design Circular Queue - Main]] |
+| 460 | [460. LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | [Link](https://neetcode.io/solutions/lfu-cache) | | | | | [[460. LFU Cache - Main]] |
