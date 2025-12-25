@@ -11,9 +11,9 @@ LeetCode150Rev2: 9
 ParentTask2:
   - "[[NeetCode 250 MainPage]]"
 LeetCode250Num: 13
-LeetCode250ConceptOk:
-LeetCode250TestPass:
-LeetCode250Finish:
+LeetCode250ConceptOk: 1
+LeetCode250TestPass: 1
+LeetCode250Finish: 1
 LeetCode250Review:
 LeetCode250Rev2:
 ---
@@ -44,18 +44,18 @@ LeetCode250Rev2:
 
 #### LeetCode 151-250
 
-| # | Problem | Difficulty | Solution | PassTest | Finish | Review | Review 2nd | Note |
-|---|---|---|---|---|---|---|---|---|
-| 1929 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [Link](https://neetcode.io/solutions/concatenation-of-array) | | | | | |
-| 14 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Link](https://neetcode.io/solutions/longest-common-prefix) | | | | | |
-| 27 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Link](https://neetcode.io/solutions/remove-element) | | | | | |
-| 169 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Link](https://neetcode.io/solutions/majority-element) | | | | | |
-| 705 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [Link](https://neetcode.io/solutions/design-hashset) | | | | | |
-| 706 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Link](https://neetcode.io/solutions/design-hashmap) | | | | | |
-| 912 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Link](https://neetcode.io/solutions/sort-an-array) | | | | | |
-| 75 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Link](https://neetcode.io/solutions/sort-colors) | | | | | |
-| 304 | [304. Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | Medium | [Link](https://neetcode.io/solutions/range-sum-query-2d-immutable) | | | | | |
-| 122 | [122. Best Time to Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [Link](https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-ii) | | | | | |
-| 229 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Link](https://neetcode.io/solutions/majority-element-ii) | | | | | |
-| 560 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Link](https://neetcode.io/solutions/subarray-sum-equals-k) | | | | | |
-| 41 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Link](https://neetcode.io/solutions/first-missing-positive) | | | | | |
+| #    | Problem                                                                                                      | Difficulty | Solution                                                                 | PassTest | Finish | Review | Review 2nd | Note                             |
+| ---- | ------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------ | -------- | ------ | ------ | ---------- | -------------------------------- |
+| 1929 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                        | Easy       | [Link](https://neetcode.io/solutions/concatenation-of-array)             | 12/23    | 12/23  |        |            | [[1929. Concatenation of Array]] |
+| 14   | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                            | Easy       | [Link](https://neetcode.io/solutions/longest-common-prefix)              | 12/23    | 12/23  |        |            | [[14. Longest Common Prefix]]    |
+| 27   | [27. Remove Element](https://leetcode.com/problems/remove-element/)                                          | Easy       | [Link](https://neetcode.io/solutions/remove-element)                     | 12/23    | 12/23  |        |            | [[27. Remove Element]]           |
+| 169  | [169. Majority Element](https://leetcode.com/problems/majority-element/)                                     | Easy       | [Link](https://neetcode.io/solutions/majority-element)                   |          |        |        |            |                                  |
+| 705  | [705. Design HashSet](https://leetcode.com/problems/design-hashset/)                                         | Easy       | [Link](https://neetcode.io/solutions/design-hashset)                     |          |        |        |            |                                  |
+| 706  | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)                                         | Easy       | [Link](https://neetcode.io/solutions/design-hashmap)                     |          |        |        |            |                                  |
+| 912  | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/)                                           | Medium     | [Link](https://neetcode.io/solutions/sort-an-array)                      |          |        |        |            |                                  |
+| 75   | [75. Sort Colors](https://leetcode.com/problems/sort-colors/)                                                | Medium     | [Link](https://neetcode.io/solutions/sort-colors)                        |          |        |        |            |                                  |
+| 304  | [304. Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)             | Medium     | [Link](https://neetcode.io/solutions/range-sum-query-2d-immutable)       |          |        |        |            |                                  |
+| 122  | [122. Best Time to Buy And Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium     | [Link](https://neetcode.io/solutions/best-time-to-buy-and-sell-stock-ii) |          |        |        |            |                                  |
+| 229  | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)                               | Medium     | [Link](https://neetcode.io/solutions/majority-element-ii)                |          |        |        |            |                                  |
+| 560  | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                           | Medium     | [Link](https://neetcode.io/solutions/subarray-sum-equals-k)              |          |        |        |            |                                  |
+| 41   | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                          | Hard       | [Link](https://neetcode.io/solutions/first-missing-positive)             |          |        |        |            |                                  |
