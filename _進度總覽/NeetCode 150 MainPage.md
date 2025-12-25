@@ -10,7 +10,7 @@ tags:
   - algorithm
 ParentTask:
   - "[[刷題機制和策略規劃]]"
-  - "[[2025換工作準備 Q3]]"
+  - "[[2025換工作準備]]"
 ---
 
 # NeetCode RoadMap
